@@ -4,7 +4,7 @@ IDIR = .
 SDIR = .
 ODIR = .
 
-SRC = $(wildcard $(SDIR)/*.cpp)
+SRC = $(wildcard $(SDIR)/*.cc)
 OBJ = $(SRC:$(SDIR)/%.c=$(ODIR)/%.o)
 
 CXX = g++
