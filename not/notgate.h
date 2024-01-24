@@ -6,8 +6,8 @@ using namespace sc_core;
 
 
 SC_MODULE(NOT){
-    sc_in<bool> in;
-    sc_out<bool> out;
+    sc_in<bool> in;//input to notgate
+    sc_out<bool> out;//output from notgate
 
     
 
@@ -17,7 +17,7 @@ SC_MODULE(NOT){
         sensitive << in;  //static sensitive
     }
 
-    void not_gate(void);
+    void not_gate(void); //function call
 };
 
 #endif  //NOTGATE_H_
