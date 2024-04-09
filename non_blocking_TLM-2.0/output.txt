@@ -1,0 +1,3000 @@
+------------ called allocate(), #trans = 1
+6b8b4567new , cmd= R, data= 0at time 0 s
+------------ called allocate(), #trans = 2
+6b8b4567BEGIN_REQ at4565 ps
+74b0dc51new , cmd= W, data= 2ae8944aat time 4565 ps
+------------ called allocate(), #trans = 3
+74b0dc51BEGIN_REQ at12351 ps
+46e87ccdnew , cmd= R, data= 0at time 12351 ps
+46e87ccdBEGIN_REQ at12547 ps
+------------ called allocate(), #trans = 4
+41b71efbnew , cmd= W, data= 7545e146at time 19641 ps
+------------ called allocate(), #trans = 5
+41b71efbBEGIN_REQ at20281 ps
+12200854new , cmd= R, data= 0at time 20281 ps
+12200854BEGIN_REQ at20294 ps
+------------ called allocate(), #trans = 6
+1190cde7new , cmd= W, data= 140e0f76at time 23425 ps
+1190cde7BEGIN_REQ at23695 ps
+------------ called allocate(), #trans = 7
+ded7263new , cmd= W, data= 1befd79fat time 25808 ps
+------------ called allocate(), #trans = 8
+ded7263BEGIN_REQ at26051 ps
+4e6afb66new , cmd= R, data= 0at time 26051 ps
+------------ called allocate(), #trans = 9
+4e6afb66BEGIN_REQ at29336 ps
+3f2dba31new , cmd= R, data= 0at time 29336 ps
+3f2dba31BEGIN_REQ at29349 ps
+------------ called allocate(), #trans = a
+436c6125new , cmd= W, data= 333ab105at time 30076 ps
+436c6125BEGIN_REQ at30144 ps
+------------ called allocate(), #trans = b
+2d1d5ae9new , cmd= R, data= 0at time 36003 ps
+------------ called allocate(), #trans = c
+2d1d5ae9BEGIN_REQ at36141 ps
+79838cb2new , cmd= W, data= b03e0c6at time 36141 ps
+------------ called allocate(), #trans = d
+79838cb2BEGIN_REQ at43676 ps
+71f32454new , cmd= W, data= 836c40eat time 43676 ps
+71f32454BEGIN_REQ at47106 ps
+------------ called allocate(), #trans = e
+8138641new , cmd= W, data= 7c3dbd3dat time 52523 ps
+------------ called allocate(), #trans = f
+8138641BEGIN_REQ at58450 ps
+22221a70new , cmd= W, data= 3006c83eat time 58450 ps
+------------ called allocate(), #trans = 10
+22221a70BEGIN_REQ at58693 ps
+5577f8e1new , cmd= R, data= 0at time 58693 ps
+------------ called allocate(), #trans = 11
+5577f8e1BEGIN_REQ at67266 ps
+77465f01new , cmd= R, data= 0at time 67266 ps
+------------ called allocate(), #trans = 12
+77465f01BEGIN_REQ at70273 ps
+5e884adcnew , cmd= W, data= 2d517796at time 70273 ps
+------------ called allocate(), #trans = 13
+5e884adcBEGIN_REQ at76858 ps
+3855585cnew , cmd= R, data= 0at time 76858 ps
+------------ called allocate(), #trans = 14
+3855585cBEGIN_REQ at83672 ps
+1d4ed43bnew , cmd= W, data= 2cd89a32at time 83672 ps
+------------ called allocate(), #trans = 15
+1d4ed43bBEGIN_REQ at93374 ps
+4b588f54new , cmd= R, data= 0at time 93374 ps
+------------ called allocate(), #trans = 16
+4b588f54BEGIN_REQ at96518 ps
+7644a45cnew , cmd= R, data= 140e0f76at time 96518 ps
+7644a45cBEGIN_REQ at102878 ps
+------------ called allocate(), #trans = 17
+749abb43new , cmd= W, data= 1ba026faat time 104823 ps
+749abb43BEGIN_REQ at105216 ps
+------------ called allocate(), #trans = 18
+12e685fbnew , cmd= W, data= 520eedd1at time 109568 ps
+12e685fbBEGIN_REQ at109568 ps
+------------ called allocate(), #trans = 19
+23f9c13cnew , cmd= R, data= 0at time 109617 ps
+------------ called allocate(), #trans = 1a
+23f9c13cBEGIN_REQ at111373 ps
+1cf10fd8new , cmd= R, data= 333ab105at time 111373 ps
+1cf10fd8BEGIN_REQ at112062 ps
+------------ called allocate(), #trans = 1b
+354fe9f9new , cmd= R, data= 0at time 114119 ps
+354fe9f9BEGIN_REQ at114187 ps
+------------ called allocate(), #trans = 1c
+10233c99new , cmd= W, data= 61574095at time 114759 ps
+------------ called allocate(), #trans = 1d
+10233c99BEGIN_REQ at123885 ps
+579be4f1new , cmd= W, data= 5ff87e05at time 123885 ps
+579be4f1BEGIN_REQ at124081 ps
+------------ called allocate(), #trans = 1e
+1dbabf00new , cmd= W, data= 1f48eaa1at time 126892 ps
+------------ called allocate(), #trans = 1f
+1dbabf00BEGIN_REQ at133252 ps
+100f8fcanew , cmd= W, data= 15014acbat time 133252 ps
+100f8fcaBEGIN_REQ at133390 ps
+------------ called allocate(), #trans = 20
+799d0247new , cmd= R, data= 0at time 133471 ps
+------------ called allocate(), #trans = 21
+799d0247BEGIN_REQ at133714 ps
+1eba5d23new , cmd= R, data= 0at time 133714 ps
+------------ called allocate(), #trans = 22
+1eba5d23BEGIN_REQ at136858 ps
+7bd3ee7bnew , cmd= R, data= 2d517796at time 136858 ps
+7bd3ee7bBEGIN_REQ at138034 ps
+------------ called allocate(), #trans = 23
+11447b73new , cmd= R, data= 0at time 145705 ps
+11447b73BEGIN_REQ at146616 ps
+------------ called allocate(), #trans = 24
+1a32234bnew , cmd= W, data= 68eb2f63at time 146678 ps
+1a32234bBEGIN_REQ at151608 ps
+------------ called allocate(), #trans = 25
+6a5ee64new , cmd= R, data= 0at time 153492 ps
+6a5ee64BEGIN_REQ at154181 ps
+------------ called allocate(), #trans = 26
+71ea1109new , cmd= R, data= 140e0f76at time 154742 ps
+71ea1109BEGIN_REQ at155135 ps
+------------ called allocate(), #trans = 27
+6f6dd9acnew , cmd= R, data= 1ba026faat time 157363 ps
+------------ called allocate(), #trans = 28
+6f6dd9acBEGIN_REQ at163948 ps
+4c04a8afnew , cmd= W, data= 14e17e33at time 163948 ps
+------------ called allocate(), #trans = 29
+4c04a8afBEGIN_REQ at166694 ps
+68ebc550new , cmd= R, data= 0at time 166694 ps
+------------ called allocate(), #trans = 2a
+68ebc550BEGIN_REQ at168020 ps
+39ee015cnew , cmd= W, data= cc1016fat time 168020 ps
+------------ called allocate(), #trans = 2b
+39ee015cBEGIN_REQ at172072 ps
+26f324banew , cmd= W, data= 49da307dat time 172072 ps
+------------ called allocate(), #trans = 2c
+26f324baBEGIN_REQ at172578 ps
+50801ee1new , cmd= R, data= 61574095at time 172578 ps
+50801ee1BEGIN_REQ at172797 ps
+------------ called allocate(), #trans = 2d
+7672bd23new , cmd= R, data= 5ff87e05at time 173373 ps
+7672bd23BEGIN_REQ at173616 ps
+------------ called allocate(), #trans = 2e
+5f3534a4new , cmd= W, data= 7de67713at time 177762 ps
+5f3534a4BEGIN_REQ at177783 ps
+------------ called allocate(), #trans = 2f
+14fce74enew , cmd= R, data= 15014acbat time 178310 ps
+14fce74eBEGIN_REQ at178310 ps
+------------ called allocate(), #trans = 30
+53299938new , cmd= R, data= 0at time 178368 ps
+------------ called allocate(), #trans = 31
+53299938BEGIN_REQ at181653 ps
+59adea3dnew , cmd= R, data= 0at time 181653 ps
+59adea3dBEGIN_REQ at181791 ps
+------------ called allocate(), #trans = 32
+97e1b4enew , cmd= W, data= 1ca0c5faat time 182448 ps
+------------ called allocate(), #trans = 33
+97e1b4eBEGIN_REQ at192150 ps
+7c58fd05new , cmd= R, data= 0at time 192150 ps
+------------ called allocate(), #trans = 34
+7c58fd05BEGIN_REQ at199440 ps
+e7ffa2bnew , cmd= R, data= 68eb2f63at time 199440 ps
+------------ called allocate(), #trans = 35
+e7ffa2bBEGIN_REQ at205800 ps
+39b7aaa2new , cmd= R, data= 0at time 205800 ps
+39b7aaa2BEGIN_REQ at208421 ps
+------------ called allocate(), #trans = 36
+69e373new , cmd= W, data= 4c9b0904at time 214926 ps
+------------ called allocate(), #trans = 37
+69e373BEGIN_REQ at216031 ps
+5675ff36new , cmd= R, data= 1ba026faat time 216031 ps
+------------ called allocate(), #trans = 38
+5675ff36BEGIN_REQ at225733 ps
+5b25ace2new , cmd= R, data= 14e17e33at time 225733 ps
+------------ called allocate(), #trans = 39
+5b25ace2BEGIN_REQ at226373 ps
+34fd6b4fnew , cmd= R, data= 0at time 226373 ps
+------------ called allocate(), #trans = 3a
+34fd6b4fBEGIN_REQ at226374 ps
+2c6e4afdnew , cmd= R, data= cc1016fat time 226374 ps
+------------ called allocate(), #trans = 3b
+2c6e4afdBEGIN_REQ at231119 ps
+5d888a08new , cmd= R, data= 49da307dat time 231119 ps
+------------ called allocate(), #trans = 3c
+5d888a08BEGIN_REQ at231970 ps
+75e0858anew , cmd= W, data= 5399c654at time 231970 ps
+75e0858aBEGIN_REQ at232010 ps
+------------ called allocate(), #trans = 3d
+b37e80anew , cmd= R, data= 5ff87e05at time 237483 ps
+b37e80aBEGIN_REQ at237989 ps
+------------ called allocate(), #trans = 3e
+bffae18new , cmd= R, data= 7de67713at time 239866 ps
+bffae18BEGIN_REQ at240332 ps
+------------ called allocate(), #trans = 3f
+4bee5a5bnew , cmd= W, data= 24f6ab8eat time 241272 ps
+4bee5a5bBEGIN_REQ at244416 ps
+------------ called allocate(), #trans = 40
+2a31b62dnew , cmd= W, data= 7dff9d09at time 244851 ps
+2a31b62dBEGIN_REQ at245121 ps
+------------ called allocate(), #trans = 41
+2a6de806new , cmd= R, data= 0at time 245210 ps
+2a6de806BEGIN_REQ at247710 ps
+------------ called allocate(), #trans = 42
+759f82cdnew , cmd= W, data= 597b4d84at time 254912 ps
+759f82cdBEGIN_REQ at256965 ps
+------------ called allocate(), #trans = 43
+312167adnew , cmd= R, data= 0at time 258802 ps
+312167adBEGIN_REQ at266092 ps
+------------ called allocate(), #trans = 44
+6e534cdenew , cmd= R, data= 68eb2f63at time 267375 ps
+------------ called allocate(), #trans = 45
+6e534cdeBEGIN_REQ at273302 ps
+260d8c4anew , cmd= R, data= 0at time 273302 ps
+------------ called allocate(), #trans = 46
+260d8c4aBEGIN_REQ at277691 ps
+3fc32e20new , cmd= W, data= 14d53685at time 277691 ps
+3fc32e20BEGIN_REQ at279447 ps
+------------ called allocate(), #trans = 47
+3f06ecb2new , cmd= W, data= 6caa2304at time 282621 ps
+3f06ecb2BEGIN_REQ at283726 ps
+------------ called allocate(), #trans = 48
+17180b0bnew , cmd= W, data= 5d205e20at time 286353 ps
+17180b0bBEGIN_REQ at286363 ps
+------------ called allocate(), #trans = 49
+3f07acc3new , cmd= R, data= 0at time 287093 ps
+3f07acc3BEGIN_REQ at287093 ps
+------------ called allocate(), #trans = 4a
+1c695decnew , cmd= W, data= f856867at time 287114 ps
+1c695decBEGIN_REQ at287182 ps
+------------ called allocate(), #trans = 4b
+29934699new , cmd= R, data= 49da307dat time 296816 ps
+------------ called allocate(), #trans = 4c
+29934699BEGIN_REQ at297409 ps
+6b1d2c14new , cmd= W, data= 3f7f5dd9at time 297409 ps
+------------ called allocate(), #trans = 4d
+6b1d2c14BEGIN_REQ at297628 ps
+5454945enew , cmd= R, data= 5ff87e05at time 297628 ps
+------------ called allocate(), #trans = 4e
+5454945eBEGIN_REQ at299579 ps
+94927a8new , cmd= R, data= 7de67713at time 299579 ps
+94927a8BEGIN_REQ at302864 ps
+------------ called allocate(), #trans = 4f
+24e60401new , cmd= R, data= 24f6ab8eat time 308426 ps
+24e60401BEGIN_REQ at314353 ps
+------------ called allocate(), #trans = 50
+779d8544new , cmd= R, data= 7dff9d09at time 316212 ps
+------------ called allocate(), #trans = 51
+779d8544BEGIN_REQ at317462 ps
+6181ef69new , cmd= R, data= 0at time 317462 ps
+------------ called allocate(), #trans = 52
+6181ef69BEGIN_REQ at327164 ps
+5015cd1anew , cmd= R, data= 597b4d84at time 327164 ps
+5015cd1aBEGIN_REQ at327185 ps
+------------ called allocate(), #trans = 53
+368db37enew , cmd= R, data= 0at time 336575 ps
+------------ called allocate(), #trans = 54
+368db37eBEGIN_REQ at343865 ps
+29bacf25new , cmd= W, data= 51bf6b48at time 343865 ps
+29bacf25BEGIN_REQ at344192 ps
+------------ called allocate(), #trans = 55
+72e3413anew , cmd= R, data= 0at time 345528 ps
+------------ called allocate(), #trans = 56
+72e3413aBEGIN_REQ at350458 ps
+64429599new , cmd= R, data= 14d53685at time 350458 ps
+64429599BEGIN_REQ at351708 ps
+------------ called allocate(), #trans = 57
+6ec9d844new , cmd= R, data= 6caa2304at time 352121 ps
+6ec9d844BEGIN_REQ at357051 ps
+------------ called allocate(), #trans = 58
+7e448de9new , cmd= W, data= 1afe3625at time 358048 ps
+------------ called allocate(), #trans = 59
+7e448de9BEGIN_REQ at361055 ps
+c058df5new , cmd= W, data= 3102bbe2at time 361055 ps
+c058df5BEGIN_REQ at361230 ps
+------------ called allocate(), #trans = 5a
+67906f60new , cmd= R, data= f856867at time 363108 ps
+67906f60BEGIN_REQ at363108 ps
+------------ called allocate(), #trans = 5b
+3a966cd0new , cmd= W, data= 5895f5faat time 363110 ps
+------------ called allocate(), #trans = 5c
+3a966cd0BEGIN_REQ at366254 ps
+4b793735new , cmd= R, data= 3f7f5dd9at time 366254 ps
+4b793735BEGIN_REQ at366259 ps
+------------ called allocate(), #trans = 5d
+2e534a82new , cmd= R, data= 5ff87e05at time 368205 ps
+2e534a82BEGIN_REQ at368210 ps
+------------ called allocate(), #trans = 5e
+15bcaba8new , cmd= W, data= 434bae75at time 369693 ps
+15bcaba8BEGIN_REQ at370052 ps
+------------ called allocate(), #trans = 5f
+1de8725anew , cmd= R, data= 24f6ab8eat time 370798 ps
+------------ called allocate(), #trans = 60
+1de8725aBEGIN_REQ at373805 ps
+763cb680new , cmd= W, data= 3da97044at time 373805 ps
+763cb680BEGIN_REQ at374778 ps
+------------ called allocate(), #trans = 61
+2539dfa5new , cmd= W, data= 706b674eat time 380619 ps
+2539dfa5BEGIN_REQ at380619 ps
+------------ called allocate(), #trans = 62
+545ee5d3new , cmd= W, data= 20f4bdadat time 380978 ps
+------------ called allocate(), #trans = 63
+545ee5d3BEGIN_REQ at388764 ps
+6b057295new , cmd= R, data= 0at time 388764 ps
+------------ called allocate(), #trans = 64
+6b057295BEGIN_REQ at397611 ps
+4e647fe4new , cmd= W, data= 565976f1at time 397611 ps
+4e647fe4BEGIN_REQ at398077 ps
+------------ called allocate(), #trans = 65
+19a52566new , cmd= W, data= 28677b7cat time 399771 ps
+19a52566BEGIN_REQ at399771 ps
+------------ called allocate(), #trans = 66
+316032bbnew , cmd= R, data= 14d53685at time 399990 ps
+316032bbBEGIN_REQ at401095 ps
+------------ called allocate(), #trans = 67
+1ddbc66new , cmd= R, data= 6caa2304at time 401746 ps
+1ddbc66BEGIN_REQ at410872 ps
+------------ called allocate(), #trans = 68
+5e636063new , cmd= W, data= 53280662at time 411448 ps
+------------ called allocate(), #trans = 69
+5e636063BEGIN_REQ at411667 ps
+57ce66b4new , cmd= W, data= 5953172fat time 411667 ps
+57ce66b4BEGIN_REQ at412215 ps
+------------ called allocate(), #trans = 6a
+c4c3afnew , cmd= W, data= 6c053b16at time 413720 ps
+c4c3afBEGIN_REQ at414313 ps
+------------ called allocate(), #trans = 6b
+425eb207new , cmd= W, data= 2e5b12b8at time 421506 ps
+425eb207BEGIN_REQ at421749 ps
+------------ called allocate(), #trans = 6c
+56c28e34new , cmd= W, data= 435d38dat time 422682 ps
+------------ called allocate(), #trans = 6d
+56c28e34BEGIN_REQ at423477 ps
+1803d089new , cmd= R, data= 5ff87e05at time 423477 ps
+1803d089BEGIN_REQ at424025 ps
+------------ called allocate(), #trans = 6e
+24e135new , cmd= W, data= 271210c7at time 427056 ps
+24e135BEGIN_REQ at433870 ps
+------------ called allocate(), #trans = 6f
+6dc45e83new , cmd= W, data= 2bb180d8at time 434842 ps
+6dc45e83BEGIN_REQ at435085 ps
+------------ called allocate(), #trans = 70
+539f7f12new , cmd= R, data= 3da97044at time 442132 ps
+539f7f12BEGIN_REQ at442821 ps
+------------ called allocate(), #trans = 71
+141d2302new , cmd= R, data= 706b674eat time 445417 ps
+------------ called allocate(), #trans = 72
+141d2302BEGIN_REQ at447686 ps
+73bbd7f8new , cmd= W, data= 327fac77at time 447686 ps
+73bbd7f8BEGIN_REQ at449955 ps
+------------ called allocate(), #trans = 73
+46111ba5new , cmd= R, data= 0at time 453 ns
+46111ba5BEGIN_REQ at453156 ps
+------------ called allocate(), #trans = 74
+769a091fnew , cmd= W, data= 777a4eaaat time 461847 ps
+------------ called allocate(), #trans = 75
+769a091fBEGIN_REQ at469137 ps
+7835626cnew , cmd= W, data= 6835b2aeat time 469137 ps
+------------ called allocate(), #trans = 76
+7835626cBEGIN_REQ at472281 ps
+7f65fd16new , cmd= R, data= 14d53685at time 472281 ps
+------------ called allocate(), #trans = 77
+7f65fd16BEGIN_REQ at478641 ps
+4b697c7anew , cmd= R, data= 6caa2304at time 478641 ps
+------------ called allocate(), #trans = 78
+4b697c7aBEGIN_REQ at486946 ps
+65bf9da8new , cmd= R, data= 53280662at time 486946 ps
+65bf9da8BEGIN_REQ at487189 ps
+------------ called allocate(), #trans = 79
+155ec4c2new , cmd= W, data= 6ebb1f2aat time 487919 ps
+155ec4c2BEGIN_REQ at489245 ps
+------------ called allocate(), #trans = 7a
+34cc3acfnew , cmd= W, data= 4c672fc9at time 493039 ps
+------------ called allocate(), #trans = 7b
+34cc3acfBEGIN_REQ at493235 ps
+12fcde5enew , cmd= R, data= 2e5b12b8at time 493235 ps
+------------ called allocate(), #trans = 7c
+12fcde5eBEGIN_REQ at494898 ps
+4252c2danew , cmd= R, data= 435d38dat time 494898 ps
+------------ called allocate(), #trans = 7d
+4252c2daBEGIN_REQ at499828 ps
+3eb21819new , cmd= W, data= 6353cd2at time 499828 ps
+------------ called allocate(), #trans = 7e
+3eb21819BEGIN_REQ at501491 ps
+519eb94cnew , cmd= W, data= 126e008bat time 501491 ps
+------------ called allocate(), #trans = 7f
+519eb94cBEGIN_REQ at508305 ps
+3410ed56new , cmd= R, data= 2bb180d8at time 508305 ps
+------------ called allocate(), #trans = 80
+3410ed56BEGIN_REQ at514232 ps
+680ea5d1new , cmd= R, data= 3da97044at time 514232 ps
+------------ called allocate(), #trans = 81
+680ea5d1BEGIN_REQ at516392 ps
+7f618fcdnew , cmd= W, data= 9815da3at time 516392 ps
+7f618fcdBEGIN_REQ at516441 ps
+------------ called allocate(), #trans = 82
+1c7e3c01new , cmd= W, data= 50abcec9at time 516450 ps
+1c7e3c01BEGIN_REQ at518401 ps
+------------ called allocate(), #trans = 83
+3b3ebe15new , cmd= W, data= 6ce00443at time 520340 ps
+3b3ebe15BEGIN_REQ at520343 ps
+------------ called allocate(), #trans = 84
+73154115new , cmd= R, data= 777a4eaaat time 525085 ps
+------------ called allocate(), #trans = 85
+73154115BEGIN_REQ at528664 ps
+1c0ca67cnew , cmd= W, data= 7993b662at time 528664 ps
+------------ called allocate(), #trans = 86
+1c0ca67cBEGIN_REQ at529212 ps
+7bcfbafcnew , cmd= R, data= 14d53685at time 529212 ps
+7bcfbafcBEGIN_REQ at529571 ps
+------------ called allocate(), #trans = 87
+621af471new , cmd= W, data= 20f88ea6at time 531063 ps
+621af471BEGIN_REQ at534493 ps
+------------ called allocate(), #trans = 88
+2a79ec49new , cmd= W, data= 47c7c971at time 540765 ps
+------------ called allocate(), #trans = 89
+2a79ec49BEGIN_REQ at543265 ps
+1873983anew , cmd= W, data= 2e17eca7at time 543265 ps
+1873983aBEGIN_REQ at543562 ps
+------------ called allocate(), #trans = 8a
+1af7f0eanew , cmd= R, data= 4c672fc9at time 545648 ps
+------------ called allocate(), #trans = 8b
+1af7f0eaBEGIN_REQ at553434 ps
+2fd0ad81new , cmd= W, data= 52c12c61at time 553434 ps
+2fd0ad81BEGIN_REQ at555285 ps
+------------ called allocate(), #trans = 8c
+4c54e2c3new , cmd= W, data= 47caa567at time 557486 ps
+------------ called allocate(), #trans = 8d
+4c54e2c3BEGIN_REQ at557783 ps
+26baae9new , cmd= R, data= 6353cd2at time 557783 ps
+------------ called allocate(), #trans = 8e
+26baae9BEGIN_REQ at559357 ps
+4cfb8d32new , cmd= W, data= 718fabf9at time 559357 ps
+4cfb8d32BEGIN_REQ at559397 ps
+------------ called allocate(), #trans = 8f
+3957756anew , cmd= W, data= 65ca235bat time 559397 ps
+------------ called allocate(), #trans = 90
+3957756aBEGIN_REQ at568244 ps
+13e21002new , cmd= R, data= 3da97044at time 568244 ps
+13e21002BEGIN_REQ at568302 ps
+------------ called allocate(), #trans = 91
+73209072new , cmd= R, data= 9815da3at time 568336 ps
+73209072BEGIN_REQ at568353 ps
+------------ called allocate(), #trans = 92
+792b8401new , cmd= W, data= 6ece91f0at time 573266 ps
+792b8401BEGIN_REQ at573266 ps
+------------ called allocate(), #trans = 93
+76574f8bnew , cmd= W, data= 2421dfcfat time 577655 ps
+------------ called allocate(), #trans = 94
+76574f8bBEGIN_REQ at579506 ps
+5024de5bnew , cmd= W, data= 1036b29fat time 579506 ps
+------------ called allocate(), #trans = 95
+5024de5bBEGIN_REQ at580756 ps
+1c65e98new , cmd= R, data= 7993b662at time 580756 ps
+1c65e98BEGIN_REQ at580757 ps
+------------ called allocate(), #trans = 96
+530386d1new , cmd= R, data= 14d53685at time 583256 ps
+------------ called allocate(), #trans = 97
+530386d1BEGIN_REQ at583269 ps
+90802benew , cmd= W, data= 3f8b0cbfat time 583269 ps
+------------ called allocate(), #trans = 98
+90802beBEGIN_REQ at584932 ps
+1f3da4d5new , cmd= R, data= 47c7c971at time 584932 ps
+------------ called allocate(), #trans = 99
+1f3da4d5BEGIN_REQ at592975 ps
+47195e5new , cmd= R, data= 2e17eca7at time 592975 ps
+47195e5BEGIN_REQ at593081 ps
+------------ called allocate(), #trans = 9a
+2d9df57dnew , cmd= R, data= 4c672fc9at time 598488 ps
+------------ called allocate(), #trans = 9b
+2d9df57dBEGIN_REQ at606531 ps
+19b8a08enew , cmd= W, data= 5992a02eat time 606531 ps
+------------ called allocate(), #trans = 9c
+19b8a08eBEGIN_REQ at608019 ps
+52c77402new , cmd= R, data= 47caa567at time 608019 ps
+52c77402BEGIN_REQ at608040 ps
+------------ called allocate(), #trans = 9d
+66d385c9new , cmd= R, data= 6353cd2at time 612949 ps
+66d385c9BEGIN_REQ at617167 ps
+------------ called allocate(), #trans = 9e
+280e6897new , cmd= R, data= 718fabf9at time 619763 ps
+280e6897BEGIN_REQ at620090 ps
+------------ called allocate(), #trans = 9f
+18333c89new , cmd= R, data= 65ca235bat time 628068 ps
+18333c89BEGIN_REQ at628496 ps
+------------ called allocate(), #trans = a0
+1421971bnew , cmd= W, data= 116e0907at time 628574 ps
+------------ called allocate(), #trans = a1
+1421971bBEGIN_REQ at632464 ps
+71dce0fdnew , cmd= W, data= 72bbc16at time 632464 ps
+------------ called allocate(), #trans = a2
+71dce0fdBEGIN_REQ at632522 ps
+20e45ca4new , cmd= W, data= 159c74cfat time 632522 ps
+------------ called allocate(), #trans = a3
+20e45ca4BEGIN_REQ at639812 ps
+6863e8d2new , cmd= R, data= 2421dfcfat time 639812 ps
+------------ called allocate(), #trans = a4
+6863e8d2BEGIN_REQ at643391 ps
+5d5ce761new , cmd= W, data= 21d06255at time 643391 ps
+------------ called allocate(), #trans = a5
+5d5ce761BEGIN_REQ at647281 ps
+2219b33new , cmd= W, data= 2c7c62c2at time 647281 ps
+------------ called allocate(), #trans = a6
+2219b33BEGIN_REQ at650425 ps
+33537cednew , cmd= R, data= 14d53685at time 650425 ps
+------------ called allocate(), #trans = a7
+33537cedBEGIN_REQ at658998 ps
+38bf53e5new , cmd= R, data= 3f8b0cbfat time 658998 ps
+------------ called allocate(), #trans = a8
+38bf53e5BEGIN_REQ at662005 ps
+1b7585abnew , cmd= W, data= 2109cda4at time 662005 ps
+------------ called allocate(), #trans = a9
+1b7585abBEGIN_REQ at667319 ps
+6c2cfc88new , cmd= R, data= 2e17eca7at time 667319 ps
+6c2cfc88BEGIN_REQ at668982 ps
+------------ called allocate(), #trans = aa
+557fb7eenew , cmd= W, data= 6c8b4466at time 670749 ps
+557fb7eeBEGIN_REQ at671076 ps
+------------ called allocate(), #trans = ab
+95fc93bnew , cmd= W, data= 71e5621eat time 679596 ps
+------------ called allocate(), #trans = ac
+95fc93bBEGIN_REQ at685523 ps
+69215dfbnew , cmd= R, data= 47caa567at time 685523 ps
+69215dfbBEGIN_REQ at686163 ps
+------------ called allocate(), #trans = ad
+2e129658new , cmd= R, data= 6353cd2at time 691240 ps
+2e129658BEGIN_REQ at691510 ps
+------------ called allocate(), #trans = ae
+3e5e582bnew , cmd= R, data= 718fabf9at time 693740 ps
+3e5e582bBEGIN_REQ at694010 ps
+------------ called allocate(), #trans = af
+40f2cbd2new , cmd= W, data= a045ab2at time 697630 ps
+------------ called allocate(), #trans = b0
+40f2cbd2BEGIN_REQ at698668 ps
+7631573anew , cmd= W, data= acdfac0at time 698668 ps
+7631573aBEGIN_REQ at698668 ps
+------------ called allocate(), #trans = b1
+4e3d26abnew , cmd= R, data= 72bbc16at time 700242 ps
+------------ called allocate(), #trans = b2
+4e3d26abBEGIN_REQ at706602 ps
+154291f6new , cmd= W, data= 60ee9c16at time 706602 ps
+154291f6BEGIN_REQ at708985 ps
+------------ called allocate(), #trans = b3
+4a0ffa11new , cmd= R, data= 2421dfcfat time 712319 ps
+4a0ffa11BEGIN_REQ at712440 ps
+------------ called allocate(), #trans = b4
+c56f860new , cmd= R, data= 21d06255at time 712457 ps
+------------ called allocate(), #trans = b5
+c56f860BEGIN_REQ at714031 ps
+232fcf4dnew , cmd= W, data= 67a5a6b5at time 714031 ps
+232fcf4dBEGIN_REQ at715069 ps
+------------ called allocate(), #trans = b6
+237bbca0new , cmd= W, data= 78070222at time 717610 ps
+237bbca0BEGIN_REQ at717610 ps
+------------ called allocate(), #trans = b7
+7d94f75dnew , cmd= W, data= 2bb7929bat time 717610 ps
+------------ called allocate(), #trans = b8
+7d94f75dBEGIN_REQ at719663 ps
+379a5b56new , cmd= W, data= 29784870at time 719663 ps
+------------ called allocate(), #trans = b9
+379a5b56BEGIN_REQ at725590 ps
+a66e486new , cmd= R, data= 2e17eca7at time 725590 ps
+------------ called allocate(), #trans = ba
+a66e486BEGIN_REQ at733125 ps
+ea697f2new , cmd= W, data= 4a8db59cat time 733125 ps
+ea697f2BEGIN_REQ at736704 ps
+------------ called allocate(), #trans = bb
+43b27fa7new , cmd= R, data= 71e5621eat time 740174 ps
+43b27fa7BEGIN_REQ at740184 ps
+------------ called allocate(), #trans = bc
+fa085b0new , cmd= W, data= 41e96bdbat time 740214 ps
+fa085b0BEGIN_REQ at740214 ps
+------------ called allocate(), #trans = bd
+39f06dfdnew , cmd= W, data= 2774a209at time 744959 ps
+39f06dfdBEGIN_REQ at744986 ps
+------------ called allocate(), #trans = be
+532c34a5new , cmd= R, data= 718fabf9at time 745507 ps
+------------ called allocate(), #trans = bf
+532c34a5BEGIN_REQ at748514 ps
+63df3fb7new , cmd= W, data= 57a37d47at time 748514 ps
+------------ called allocate(), #trans = c0
+63df3fb7BEGIN_REQ at748841 ps
+805b331new , cmd= W, data= 43773132at time 748841 ps
+805b331BEGIN_REQ at753771 ps
+------------ called allocate(), #trans = c1
+e04e6cenew , cmd= R, data= 72bbc16at time 756131 ps
+------------ called allocate(), #trans = c2
+e04e6ceBEGIN_REQ at756428 ps
+59a4ba71new , cmd= R, data= 60ee9c16at time 756428 ps
+59a4ba71BEGIN_REQ at761742 ps
+------------ called allocate(), #trans = c3
+49f15c6bnew , cmd= R, data= 2421dfcfat time 761742 ps
+49f15c6bBEGIN_REQ at762101 ps
+------------ called allocate(), #trans = c4
+2fe5d025new , cmd= W, data= c7a9237at time 767255 ps
+------------ called allocate(), #trans = c5
+2fe5d025BEGIN_REQ at776102 ps
+5fa6c6dcnew , cmd= R, data= 67a5a6b5at time 776102 ps
+------------ called allocate(), #trans = c6
+5fa6c6dcBEGIN_REQ at783888 ps
+5b727f19new , cmd= R, data= 78070222at time 783888 ps
+5b727f19BEGIN_REQ at784281 ps
+------------ called allocate(), #trans = c7
+404eaf4anew , cmd= W, data= 55fee0d1at time 789202 ps
+404eaf4aBEGIN_REQ at789207 ps
+------------ called allocate(), #trans = c8
+4cc32f1fnew , cmd= R, data= 29784870at time 797775 ps
+------------ called allocate(), #trans = c9
+4cc32f1fBEGIN_REQ at806901 ps
+63822dc0new , cmd= R, data= 2e17eca7at time 806901 ps
+------------ called allocate(), #trans = ca
+63822dc0BEGIN_REQ at811466 ps
+5556a87bnew , cmd= R, data= 4a8db59cat time 811466 ps
+------------ called allocate(), #trans = cb
+5556a87bBEGIN_REQ at816979 ps
+d15facanew , cmd= W, data= 2299dcbcat time 816979 ps
+------------ called allocate(), #trans = cc
+d15facaBEGIN_REQ at822492 ps
+542da5b5new , cmd= R, data= 41e96bdbat time 822492 ps
+------------ called allocate(), #trans = cd
+542da5b5BEGIN_REQ at828633 ps
+63a4aab6new , cmd= W, data= 1230f102at time 828633 ps
+------------ called allocate(), #trans = ce
+63a4aab6BEGIN_REQ at833022 ps
+527fa04cnew , cmd= R, data= 718fabf9at time 833022 ps
+527fa04cBEGIN_REQ at833178 ps
+------------ called allocate(), #trans = cf
+508ed897new , cmd= W, data= 68104812at time 833241 ps
+508ed897BEGIN_REQ at833707 ps
+------------ called allocate(), #trans = d0
+4b9275d2new , cmd= W, data= 61c30361at time 835401 ps
+4b9275d2BEGIN_REQ at835620 ps
+------------ called allocate(), #trans = d1
+9d30dfdnew , cmd= R, data= 72bbc16at time 840914 ps
+9d30dfdBEGIN_REQ at842577 ps
+------------ called allocate(), #trans = d2
+2e0d7671new , cmd= W, data= 307995caat time 847728 ps
+2e0d7671BEGIN_REQ at848234 ps
+------------ called allocate(), #trans = d3
+29b0e9a8new , cmd= R, data= 2421dfcfat time 849216 ps
+------------ called allocate(), #trans = d4
+29b0e9a8BEGIN_REQ at854933 ps
+672417e1new , cmd= W, data= 330b1333at time 854933 ps
+672417e1BEGIN_REQ at855108 ps
+------------ called allocate(), #trans = d5
+22d71957new , cmd= W, data= 8bbeb1dat time 858218 ps
+22d71957BEGIN_REQ at858228 ps
+------------ called allocate(), #trans = d6
+70cc332fnew , cmd= R, data= 78070222at time 858437 ps
+------------ called allocate(), #trans = d7
+70cc332fBEGIN_REQ at865251 ps
+256e6749new , cmd= W, data= 1f7f42e2at time 865251 ps
+256e6749BEGIN_REQ at869640 ps
+------------ called allocate(), #trans = d8
+102362f8new , cmd= W, data= 3d75bc47at time 874953 ps
+102362f8BEGIN_REQ at879518 ps
+------------ called allocate(), #trans = d9
+6def5211new , cmd= R, data= 2e17eca7at time 884655 ps
+------------ called allocate(), #trans = da
+6def5211BEGIN_REQ at886061 ps
+5ca941new , cmd= W, data= 24f5d018at time 886061 ps
+------------ called allocate(), #trans = db
+5ca941BEGIN_REQ at895472 ps
+5800e34bnew , cmd= R, data= 2299dcbcat time 895472 ps
+5800e34bBEGIN_REQ at895473 ps
+------------ called allocate(), #trans = dc
+63351604new , cmd= R, data= 41e96bdbat time 898346 ps
+------------ called allocate(), #trans = dd
+63351604BEGIN_REQ at898565 ps
+7f41d049new , cmd= R, data= 1230f102at time 898565 ps
+------------ called allocate(), #trans = de
+7f41d049BEGIN_REQ at907691 ps
+6a0dce48new , cmd= R, data= 718fabf9at time 907691 ps
+------------ called allocate(), #trans = df
+6a0dce48BEGIN_REQ at908602 ps
+18c45e15new , cmd= W, data= 13cd8dcbat time 908602 ps
+18c45e15BEGIN_REQ at908619 ps
+------------ called allocate(), #trans = e0
+2c70edaenew , cmd= W, data= 3a86d445at time 908798 ps
+2c70edaeBEGIN_REQ at909191 ps
+------------ called allocate(), #trans = e1
+3ae37d86new , cmd= W, data= bf783fat time 909391 ps
+------------ called allocate(), #trans = e2
+3ae37d86BEGIN_REQ at915532 ps
+58c05b8anew , cmd= W, data= 1e41098aat time 915532 ps
+------------ called allocate(), #trans = e3
+58c05b8aBEGIN_REQ at919264 ps
+2cb6a6a4new , cmd= R, data= 2421dfcfat time 919264 ps
+2cb6a6a4BEGIN_REQ at920514 ps
+------------ called allocate(), #trans = e4
+675adbanew , cmd= W, data= 6798f039at time 921647 ps
+675adbaBEGIN_REQ at923221 ps
+------------ called allocate(), #trans = e5
+42b8ac67new , cmd= R, data= 8bbeb1dat time 925537 ps
+42b8ac67BEGIN_REQ at926863 ps
+------------ called allocate(), #trans = e6
+3830d6b6new , cmd= W, data= 576fc41bat time 928158 ps
+------------ called allocate(), #trans = e7
+3830d6b6BEGIN_REQ at931890 ps
+11f69861new , cmd= W, data= d3be41cat time 931890 ps
+11f69861BEGIN_REQ at935469 ps
+------------ called allocate(), #trans = e8
+dfb5c5bnew , cmd= R, data= 3d75bc47at time 937010 ps
+------------ called allocate(), #trans = e9
+dfb5c5bBEGIN_REQ at944300 ps
+28168302new , cmd= R, data= 2e17eca7at time 944300 ps
+------------ called allocate(), #trans = ea
+28168302BEGIN_REQ at947046 ps
+5f5c6e4dnew , cmd= W, data= 7ab86ee1at time 947046 ps
+------------ called allocate(), #trans = eb
+5f5c6e4dBEGIN_REQ at952763 ps
+6cb1b60new , cmd= R, data= 2299dcbcat time 952763 ps
+6cb1b60BEGIN_REQ at952765 ps
+------------ called allocate(), #trans = ec
+35a681dbnew , cmd= R, data= 41e96bdbat time 953311 ps
+------------ called allocate(), #trans = ed
+35a681dbBEGIN_REQ at960360 ps
+4fb7a02anew , cmd= R, data= 1230f102at time 960360 ps
+4fb7a02aBEGIN_REQ at964578 ps
+------------ called allocate(), #trans = ee
+3adf331dnew , cmd= R, data= 718fabf9at time 965290 ps
+3adf331dBEGIN_REQ at965838 ps
+------------ called allocate(), #trans = ef
+19e2bfccnew , cmd= R, data= 13cd8dcbat time 968575 ps
+------------ called allocate(), #trans = f0
+19e2bfccBEGIN_REQ at970331 ps
+7b34dfe8new , cmd= W, data= 3137975eat time 970331 ps
+------------ called allocate(), #trans = f1
+7b34dfe8BEGIN_REQ at973077 ps
+755b5ed6new , cmd= R, data= bf783fat time 973077 ps
+------------ called allocate(), #trans = f2
+755b5ed6BEGIN_REQ at978794 ps
+188bfb19new , cmd= W, data= 76dee918at time 978794 ps
+188bfb19BEGIN_REQ at978886 ps
+------------ called allocate(), #trans = f3
+7bf45b8enew , cmd= W, data= 9ae0ddat time 986837 ps
+7bf45b8eBEGIN_REQ at987134 ps
+------------ called allocate(), #trans = f4
+50528108new , cmd= W, data= 5fd4b154at time 990727 ps
+------------ called allocate(), #trans = f5
+50528108BEGIN_REQ at999300 ps
+2cdd5b39new , cmd= W, data= 247fc4aeat time 999300 ps
+2cdd5b39BEGIN_REQ at1000476 ps
+------------ called allocate(), #trans = f6
+7a963843new , cmd= W, data= 51a3a284at time 1000963 ps
+7a963843BEGIN_REQ at1002719 ps
+------------ called allocate(), #trans = f7
+7f7e4a15new , cmd= W, data= 76742596at time 1003123 ps
+------------ called allocate(), #trans = f8
+7f7e4a15BEGIN_REQ at1006702 ps
+6687f34dnew , cmd= R, data= 3d75bc47at time 1006702 ps
+6687f34dBEGIN_REQ at1007613 ps
+------------ called allocate(), #trans = f9
+30bb2b99new , cmd= R, data= 2e17eca7at time 1012016 ps
+30bb2b99BEGIN_REQ at1012137 ps
+------------ called allocate(), #trans = fa
+17ec0c4new , cmd= R, data= 7ab86ee1at time 1013266 ps
+------------ called allocate(), #trans = fb
+17ec0c4BEGIN_REQ at1017484 ps
+12f9357anew , cmd= R, data= 2299dcbcat time 1017484 ps
+------------ called allocate(), #trans = fc
+12f9357aBEGIN_REQ at1019537 ps
+23502a61new , cmd= R, data= 41e96bdbat time 1019537 ps
+------------ called allocate(), #trans = fd
+23502a61BEGIN_REQ at1022822 ps
+1c8a8acfnew , cmd= R, data= 1230f102at time 1022822 ps
+------------ called allocate(), #trans = fe
+1c8a8acfBEGIN_REQ at1028539 ps
+45dc439dnew , cmd= W, data= 6dac7768at time 1028539 ps
+45dc439dBEGIN_REQ at1030295 ps
+------------ called allocate(), #trans = ff
+7a61d75bnew , cmd= R, data= 13cd8dcbat time 1033853 ps
+7a61d75bBEGIN_REQ at1033866 ps
+------------ called allocate(), #trans = 100
+2e19dd00new , cmd= R, data= 3137975eat time 1036860 ps
+------------ called allocate(), #trans = 101
+2e19dd00BEGIN_REQ at1037103 ps
+4ec868c4new , cmd= W, data= 307c7daaat time 1037103 ps
+------------ called allocate(), #trans = 102
+4ec868c4BEGIN_REQ at1041155 ps
+24dbf76new , cmd= R, data= 76dee918at time 1041155 ps
+------------ called allocate(), #trans = 103
+24dbf76BEGIN_REQ at1046872 ps
+42933c4fnew , cmd= R, data= 9ae0ddat time 1046872 ps
+------------ called allocate(), #trans = 104
+42933c4fBEGIN_REQ at1050762 ps
+5cab38c6new , cmd= W, data= 64e4c3cdat time 1050762 ps
+------------ called allocate(), #trans = 105
+5cab38c6BEGIN_REQ at1059888 ps
+2ac1076anew , cmd= W, data= 174bde99at time 1059888 ps
+2ac1076aBEGIN_REQ at1060063 ps
+------------ called allocate(), #trans = 106
+11adb5f4new , cmd= W, data= 1b2b9e9dat time 1063940 ps
+------------ called allocate(), #trans = 107
+11adb5f4BEGIN_REQ at1065045 ps
+1098cf6enew , cmd= W, data= 128d98b7at time 1065045 ps
+------------ called allocate(), #trans = 108
+1098cf6eBEGIN_REQ at1074456 ps
+430a1662new , cmd= R, data= 3d75bc47at time 1074456 ps
+430a1662BEGIN_REQ at1074524 ps
+------------ called allocate(), #trans = 109
+72d2b579new , cmd= R, data= 2e17eca7at time 1079576 ps
+72d2b579BEGIN_REQ at1079586 ps
+------------ called allocate(), #trans = 10a
+5ea6d896new , cmd= W, data= bd6d5b5at time 1084696 ps
+------------ called allocate(), #trans = 10b
+5ea6d896BEGIN_REQ at1085336 ps
+70bb9983new , cmd= R, data= 2299dcbcat time 1085336 ps
+70bb9983BEGIN_REQ at1087187 ps
+------------ called allocate(), #trans = 10c
+2395a7ffnew , cmd= R, data= 41e96bdbat time 1093379 ps
+------------ called allocate(), #trans = 10d
+2395a7ffBEGIN_REQ at1093459 ps
+4b13a15anew , cmd= W, data= 41e690cfat time 1093459 ps
+4b13a15aBEGIN_REQ at1094007 ps
+------------ called allocate(), #trans = 10e
+527f603dnew , cmd= W, data= 663bfe95at time 1096889 ps
+527f603dBEGIN_REQ at1100468 ps
+------------ called allocate(), #trans = 10f
+294614f7new , cmd= W, data= 5ebe0eabat time 1102009 ps
+294614f7BEGIN_REQ at1102147 ps
+------------ called allocate(), #trans = 110
+4ac9f3e2new , cmd= R, data= 3137975eat time 1108823 ps
+------------ called allocate(), #trans = 111
+4ac9f3e2BEGIN_REQ at1112108 ps
+49ca1341new , cmd= R, data= 307c7daaat time 1112108 ps
+------------ called allocate(), #trans = 112
+49ca1341BEGIN_REQ at1115998 ps
+76490b01new , cmd= W, data= 645ec5abat time 1115998 ps
+76490b01BEGIN_REQ at1120928 ps
+------------ called allocate(), #trans = 113
+1dc4b111new , cmd= W, data= 10236efat time 1124303 ps
+1dc4b111BEGIN_REQ at1124896 ps
+------------ called allocate(), #trans = 114
+42e8c7benew , cmd= R, data= 64e4c3cdat time 1126924 ps
+------------ called allocate(), #trans = 115
+42e8c7beBEGIN_REQ at1133284 ps
+6350ac35new , cmd= W, data= 4748c06aat time 1133284 ps
+------------ called allocate(), #trans = 116
+6350ac35BEGIN_REQ at1138598 ps
+18c6b4f2new , cmd= W, data= e5b2573at time 1138598 ps
+18c6b4f2BEGIN_REQ at1138704 ps
+------------ called allocate(), #trans = 117
+1b1bccf5new , cmd= W, data= 78466dafat time 1145183 ps
+1b1bccf5BEGIN_REQ at1145923 ps
+------------ called allocate(), #trans = 118
+5d094b84new , cmd= R, data= 3d75bc47at time 1146757 ps
+5d094b84BEGIN_REQ at1147350 ps
+------------ called allocate(), #trans = 119
+b895ebfnew , cmd= R, data= 2e17eca7at time 1148810 ps
+------------ called allocate(), #trans = 11a
+b895ebfBEGIN_REQ at1150298 ps
+30d85a55new , cmd= W, data= 1226623cat time 1150298 ps
+30d85a55BEGIN_REQ at1150657 ps
+------------ called allocate(), #trans = 11b
+77633e5enew , cmd= W, data= 475553abat time 1160 ns
+77633e5eBEGIN_REQ at1160428 ps
+------------ called allocate(), #trans = 11c
+e9e1415new , cmd= W, data= 13d4a2f2at time 1166585 ps
+------------ called allocate(), #trans = 11d
+e9e1415BEGIN_REQ at1173170 ps
+222fc865new , cmd= R, data= 41e690cfat time 1173170 ps
+------------ called allocate(), #trans = 11e
+222fc865BEGIN_REQ at1180219 ps
+5b4a22b5new , cmd= R, data= 663bfe95at time 1180219 ps
+5b4a22b5BEGIN_REQ at1180219 ps
+------------ called allocate(), #trans = 11f
+283290fdnew , cmd= W, data= a4a062bat time 1180232 ps
+283290fdBEGIN_REQ at1180272 ps
+------------ called allocate(), #trans = 120
+6eb42955new , cmd= R, data= 3137975eat time 1188018 ps
+6eb42955BEGIN_REQ at1188019 ps
+------------ called allocate(), #trans = 121
+18f40a33new , cmd= W, data= cf19f38at time 1188813 ps
+------------ called allocate(), #trans = 122
+18f40a33BEGIN_REQ at1193558 ps
+a91e1dcnew , cmd= W, data= 62710862at time 1193558 ps
+a91e1dcBEGIN_REQ at1200143 ps
+------------ called allocate(), #trans = 123
+6272919fnew , cmd= W, data= 483966aaat time 1203260 ps
+------------ called allocate(), #trans = 124
+6272919fBEGIN_REQ at1204748 ps
+4cb58ea4new , cmd= R, data= 64e4c3cdat time 1204748 ps
+------------ called allocate(), #trans = 125
+4cb58ea4BEGIN_REQ at1205214 ps
+48be573new , cmd= R, data= 4748c06aat time 1205214 ps
+48be573BEGIN_REQ at1205263 ps
+------------ called allocate(), #trans = 126
+5d86cf11new , cmd= R, data= e5b2573at time 1207835 ps
+------------ called allocate(), #trans = 127
+5d86cf11BEGIN_REQ at1212955 ps
+58a36fcanew , cmd= R, data= 78466dafat time 1212955 ps
+58a36fcaBEGIN_REQ at1213076 ps
+------------ called allocate(), #trans = 128
+2b8fa025new , cmd= R, data= 3d75bc47at time 1213461 ps
+------------ called allocate(), #trans = 129
+2b8fa025BEGIN_REQ at1213510 ps
+48b6b6ebnew , cmd= W, data= 8a75f95at time 1213510 ps
+------------ called allocate(), #trans = 12a
+48b6b6ebBEGIN_REQ at1216256 ps
+297bfd38new , cmd= W, data= 20daabd1at time 1216256 ps
+------------ called allocate(), #trans = 12b
+297bfd38BEGIN_REQ at1224829 ps
+55886153new , cmd= W, data= 2d7cb919at time 1224829 ps
+------------ called allocate(), #trans = 12c
+55886153BEGIN_REQ at1226882 ps
+32089e8cnew , cmd= R, data= 13d4a2f2at time 1226882 ps
+------------ called allocate(), #trans = 12d
+32089e8cBEGIN_REQ at1230461 ps
+39333badnew , cmd= W, data= 477304acat time 1230461 ps
+------------ called allocate(), #trans = 12e
+39333badBEGIN_REQ at1237996 ps
+5a0e9a9fnew , cmd= R, data= 663bfe95at time 1237996 ps
+------------ called allocate(), #trans = 12f
+5a0e9a9fBEGIN_REQ at1242741 ps
+5d38caeanew , cmd= R, data= a4a062bat time 1242741 ps
+5d38caeaBEGIN_REQ at1242879 ps
+------------ called allocate(), #trans = 130
+15a79515new , cmd= R, data= 3137975eat time 1243100 ps
+------------ called allocate(), #trans = 131
+15a79515BEGIN_REQ at1252802 ps
+2e326d9anew , cmd= R, data= cf19f38at time 1252802 ps
+2e326d9aBEGIN_REQ at1252835 ps
+------------ called allocate(), #trans = 132
+52cbab2enew , cmd= W, data= 5e52c405at time 1253491 ps
+52cbab2eBEGIN_REQ at1255991 ps
+------------ called allocate(), #trans = 133
+44bd67e6new , cmd= W, data= 3d9579baat time 1262902 ps
+44bd67e6BEGIN_REQ at1262923 ps
+------------ called allocate(), #trans = 134
+76c8b568new , cmd= W, data= 588b1c7cat time 1263199 ps
+------------ called allocate(), #trans = 135
+76c8b568BEGIN_REQ at1266778 ps
+3299b71bnew , cmd= R, data= 4748c06aat time 1266778 ps
+3299b71bBEGIN_REQ at1266934 ps
+------------ called allocate(), #trans = 136
+5be02a44new , cmd= W, data= 344702acat time 1275351 ps
+5be02a44BEGIN_REQ at1275526 ps
+------------ called allocate(), #trans = 137
+38fd730enew , cmd= W, data= 3e1a864at time 1275744 ps
+------------ called allocate(), #trans = 138
+38fd730eBEGIN_REQ at1277150 ps
+48c0a800new , cmd= R, data= 3d75bc47at time 1277150 ps
+------------ called allocate(), #trans = 139
+48c0a800BEGIN_REQ at1277743 ps
+656a762bnew , cmd= W, data= 4511160dat time 1277743 ps
+656a762bBEGIN_REQ at1277899 ps
+------------ called allocate(), #trans = 13a
+2a68fc8new , cmd= W, data= 4815a966at time 1278483 ps
+2a68fc8BEGIN_REQ at1279334 ps
+------------ called allocate(), #trans = 13b
+20a0c5e2new , cmd= W, data= 3330b1eeat time 1287330 ps
+20a0c5e2BEGIN_REQ at1287351 ps
+------------ called allocate(), #trans = 13c
+777250e7new , cmd= R, data= 13d4a2f2at time 1289181 ps
+777250e7BEGIN_REQ at1290431 ps
+------------ called allocate(), #trans = 13d
+3fb97188new , cmd= R, data= 477304acat time 1296967 ps
+3fb97188BEGIN_REQ at1301897 ps
+------------ called allocate(), #trans = 13e
+b1595b1new , cmd= W, data= 5fe6c53fat time 1304257 ps
+------------ called allocate(), #trans = 13f
+b1595b1BEGIN_REQ at1313668 ps
+66fe7765new , cmd= W, data= 514fbe5aat time 1313668 ps
+------------ called allocate(), #trans = 140
+66fe7765BEGIN_REQ at1318057 ps
+1660d468new , cmd= W, data= 7cbc5fd3at time 1318057 ps
+1660d468BEGIN_REQ at1318057 ps
+------------ called allocate(), #trans = 141
+44d20939new , cmd= R, data= cf19f38at time 1325843 ps
+------------ called allocate(), #trans = 142
+44d20939BEGIN_REQ at1326483 ps
+6e4e1c1bnew , cmd= W, data= 38ad4c18at time 1326483 ps
+------------ called allocate(), #trans = 143
+6e4e1c1bBEGIN_REQ at1330373 ps
+441fbaf4new , cmd= W, data= 792a9dbat time 1330373 ps
+441fbaf4BEGIN_REQ at1331549 ps
+------------ called allocate(), #trans = 144
+29180ee2new , cmd= W, data= 427028b0at time 1331699 ps
+29180ee2BEGIN_REQ at1334445 ps
+------------ called allocate(), #trans = 145
+7f1e3daenew , cmd= W, data= 43754db7at time 1338059 ps
+------------ called allocate(), #trans = 146
+7f1e3daeBEGIN_REQ at1345594 ps
+fde3b47new , cmd= R, data= 344702acat time 1345594 ps
+fde3b47BEGIN_REQ at1345891 ps
+------------ called allocate(), #trans = 147
+2abab37new , cmd= W, data= 31f4fcadat time 1347863 ps
+------------ called allocate(), #trans = 148
+2abab37BEGIN_REQ at1348082 ps
+4d3c9346new , cmd= W, data= 3e238e27at time 1348082 ps
+------------ called allocate(), #trans = 149
+4d3c9346BEGIN_REQ at1353396 ps
+6f07c58new , cmd= W, data= 29bd8a97at time 1353396 ps
+------------ called allocate(), #trans = 14a
+6f07c58BEGIN_REQ at1354191 ps
+2d96b714new , cmd= R, data= 4815a966at time 1354191 ps
+2d96b714BEGIN_REQ at1354271 ps
+------------ called allocate(), #trans = 14b
+7fe72292new , cmd= R, data= 3330b1eeat time 1359311 ps
+7fe72292BEGIN_REQ at1359369 ps
+------------ called allocate(), #trans = 14c
+1d701bffnew , cmd= R, data= 13d4a2f2at time 1360717 ps
+------------ called allocate(), #trans = 14d
+1d701bffBEGIN_REQ at1369290 ps
+59f12779new , cmd= W, data= 4fbe108eat time 1369290 ps
+59f12779BEGIN_REQ at1372164 ps
+------------ called allocate(), #trans = 14e
+d1cd939new , cmd= R, data= 5fe6c53fat time 1378701 ps
+------------ called allocate(), #trans = 14f
+d1cd939BEGIN_REQ at1383446 ps
+5f91be56new , cmd= W, data= 1b15d96cat time 1383446 ps
+5f91be56BEGIN_REQ at1384484 ps
+------------ called allocate(), #trans = 150
+220655c4new , cmd= R, data= 7cbc5fd3at time 1387178 ps
+220655c4BEGIN_REQ at1387195 ps
+------------ called allocate(), #trans = 151
+46182e75new , cmd= R, data= cf19f38at time 1389231 ps
+46182e75BEGIN_REQ at1390719 ps
+------------ called allocate(), #trans = 152
+2357e574new , cmd= W, data= 392ba6b3at time 1398357 ps
+------------ called allocate(), #trans = 153
+2357e574BEGIN_REQ at1399683 ps
+569bc2b2new , cmd= W, data= 23bc16c2at time 1399683 ps
+------------ called allocate(), #trans = 154
+569bc2b2BEGIN_REQ at1401952 ps
+68e13f8enew , cmd= W, data= 2e59c5fdat time 1401952 ps
+------------ called allocate(), #trans = 155
+68e13f8eBEGIN_REQ at1407879 ps
+40aef10dnew , cmd= W, data= 3bcfa3d1at time 1407879 ps
+40aef10dBEGIN_REQ at1407912 ps
+------------ called allocate(), #trans = 156
+56e57d3dnew , cmd= R, data= 344702acat time 1410039 ps
+56e57d3dBEGIN_REQ at1416180 ps
+------------ called allocate(), #trans = 157
+786d58e4new , cmd= W, data= 210e8fa8at time 1419165 ps
+786d58e4BEGIN_REQ at1419408 ps
+------------ called allocate(), #trans = 158
+6a84631new , cmd= W, data= 63fec9aat time 1420341 ps
+------------ called allocate(), #trans = 159
+6a84631BEGIN_REQ at1420381 ps
+30357089new , cmd= W, data= 26af4d2dat time 1420381 ps
+------------ called allocate(), #trans = 15a
+30357089BEGIN_REQ at1426741 ps
+28b1bbf2new , cmd= R, data= 4815a966at time 1426741 ps
+28b1bbf2BEGIN_REQ at1426781 ps
+------------ called allocate(), #trans = 15b
+20913e41new , cmd= R, data= 3330b1eeat time 1426984 ps
+20913e41BEGIN_REQ at1426991 ps
+------------ called allocate(), #trans = 15c
+4dff5e8bnew , cmd= W, data= 180deb1at time 1429858 ps
+4dff5e8bBEGIN_REQ at1430077 ps
+------------ called allocate(), #trans = 15d
+1d082837new , cmd= W, data= 64f087e2at time 1434247 ps
+1d082837BEGIN_REQ at1434247 ps
+------------ called allocate(), #trans = 15e
+5ff178anew , cmd= W, data= 34fa7b2bat time 1436630 ps
+5ff178aBEGIN_REQ at1436630 ps
+------------ called allocate(), #trans = 15f
+3b3a67c5new , cmd= R, data= 1b15d96cat time 1436635 ps
+3b3a67c5BEGIN_REQ at1440853 ps
+------------ called allocate(), #trans = 160
+497fd5b0new , cmd= R, data= 7cbc5fd3at time 1442148 ps
+497fd5b0BEGIN_REQ at1442228 ps
+------------ called allocate(), #trans = 161
+a577fd6new , cmd= W, data= 1b37f412at time 1442323 ps
+------------ called allocate(), #trans = 162
+a577fd6BEGIN_REQ at1452025 ps
+2936b69anew , cmd= R, data= 392ba6b3at time 1452025 ps
+2936b69aBEGIN_REQ at1453513 ps
+------------ called allocate(), #trans = 163
+7338868fnew , cmd= R, data= 23bc16c2at time 1454408 ps
+------------ called allocate(), #trans = 164
+7338868fBEGIN_REQ at1455148 ps
+223fa5b6new , cmd= W, data= 442dc352at time 1455148 ps
+223fa5b6BEGIN_REQ at1455541 ps
+------------ called allocate(), #trans = 165
+4a2cdadcnew , cmd= W, data= 30dd9510at time 1458433 ps
+------------ called allocate(), #trans = 166
+4a2cdadcBEGIN_REQ at1467280 ps
+6c17fcd6new , cmd= W, data= 3189923bat time 1467280 ps
+6c17fcd6BEGIN_REQ at1467320 ps
+------------ called allocate(), #trans = 167
+132f561fnew , cmd= W, data= 570fd06bat time 1469549 ps
+------------ called allocate(), #trans = 168
+132f561fBEGIN_REQ at1471818 ps
+7247c47dnew , cmd= R, data= 63fec9aat time 1471818 ps
+------------ called allocate(), #trans = 169
+7247c47dBEGIN_REQ at1478632 ps
+69dffcnew , cmd= W, data= 12b4903dat time 1478632 ps
+69dffcBEGIN_REQ at1478770 ps
+------------ called allocate(), #trans = 16a
+5429abefnew , cmd= R, data= 4815a966at time 1478851 ps
+------------ called allocate(), #trans = 16b
+5429abefBEGIN_REQ at1481234 ps
+170d654enew , cmd= R, data= 3330b1eeat time 1481234 ps
+170d654eBEGIN_REQ at1483734 ps
+------------ called allocate(), #trans = 16c
+7a2446f3new , cmd= R, data= 180deb1at time 1484108 ps
+7a2446f3BEGIN_REQ at1484141 ps
+------------ called allocate(), #trans = 16d
+16d2fd9anew , cmd= R, data= 64f087e2at time 1490693 ps
+------------ called allocate(), #trans = 16e
+16d2fd9aBEGIN_REQ at1497983 ps
+20d7b9b5new , cmd= W, data= 559060dbat time 1497983 ps
+20d7b9b5BEGIN_REQ at1503103 ps
+------------ called allocate(), #trans = 16f
+3eab2035new , cmd= W, data= 7547b1d6at time 1506288 ps
+------------ called allocate(), #trans = 170
+3eab2035BEGIN_REQ at1511801 ps
+75b191d3new , cmd= W, data= 186259f2at time 1511801 ps
+75b191d3BEGIN_REQ at1513127 ps
+------------ called allocate(), #trans = 171
+6c8c05e1new , cmd= W, data= 24c258b1at time 1513127 ps
+6c8c05e1BEGIN_REQ at1516271 ps
+------------ called allocate(), #trans = 172
+1336705dnew , cmd= W, data= 347b3fd3at time 1518441 ps
+------------ called allocate(), #trans = 173
+1336705dBEGIN_REQ at1523006 ps
+6c89b896new , cmd= R, data= 23bc16c2at time 1523006 ps
+------------ called allocate(), #trans = 174
+6c89b896BEGIN_REQ at1526291 ps
+20530e7bnew , cmd= R, data= 442dc352at time 1526291 ps
+------------ called allocate(), #trans = 175
+20530e7bBEGIN_REQ at1533826 ps
+69dcf55bnew , cmd= W, data= 28ba7a13at time 1533826 ps
+------------ called allocate(), #trans = 176
+69dcf55bBEGIN_REQ at1535677 ps
+1e022be9new , cmd= W, data= 7cd94321at time 1535677 ps
+------------ called allocate(), #trans = 177
+1e022be9BEGIN_REQ at1535757 ps
+153b9d13new , cmd= W, data= 3a4be92aat time 1535757 ps
+------------ called allocate(), #trans = 178
+153b9d13BEGIN_REQ at1544604 ps
+5f0e41dbnew , cmd= R, data= 63fec9aat time 1544604 ps
+5f0e41dbBEGIN_REQ at1547611 ps
+------------ called allocate(), #trans = 179
+50b1be08new , cmd= W, data= 7f9f698aat time 1553730 ps
+------------ called allocate(), #trans = 17a
+50b1be08BEGIN_REQ at1554158 ps
+7db18352new , cmd= W, data= 21be2f84at time 1554158 ps
+------------ called allocate(), #trans = 17b
+7db18352BEGIN_REQ at1555334 ps
+36d2d033new , cmd= R, data= 3330b1eeat time 1555334 ps
+------------ called allocate(), #trans = 17c
+36d2d033BEGIN_REQ at1563120 ps
+1c82652dnew , cmd= W, data= 3afa746fat time 1563120 ps
+1c82652dBEGIN_REQ at1563226 ps
+------------ called allocate(), #trans = 17d
+37d3b790new , cmd= W, data= 6b80c94fat time 1563760 ps
+37d3b790BEGIN_REQ at1564353 ps
+------------ called allocate(), #trans = 17e
+25ccb279new , cmd= R, data= 559060dbat time 1566634 ps
+25ccb279BEGIN_REQ at1568122 ps
+------------ called allocate(), #trans = 17f
+3b24f23cnew , cmd= R, data= 7547b1d6at time 1568794 ps
+------------ called allocate(), #trans = 180
+3b24f23cBEGIN_REQ at1570645 ps
+51ef3577new , cmd= W, data= 6ba73274at time 1570645 ps
+51ef3577BEGIN_REQ at1570737 ps
+------------ called allocate(), #trans = 181
+71697665new , cmd= W, data= 12752537at time 1570820 ps
+------------ called allocate(), #trans = 182
+71697665BEGIN_REQ at1575565 ps
+63d1051new , cmd= R, data= 347b3fd3at time 1575565 ps
+63d1051BEGIN_REQ at1575761 ps
+------------ called allocate(), #trans = 183
+3bd80000new , cmd= W, data= 5d440695at time 1584976 ps
+3bd80000BEGIN_REQ at1587136 ps
+------------ called allocate(), #trans = 184
+2b7c5568new , cmd= W, data= 5badf95fat time 1590693 ps
+2b7c5568BEGIN_REQ at1596206 ps
+------------ called allocate(), #trans = 185
+2a84f0f7new , cmd= W, data= 7138b819at time 1598479 ps
+------------ called allocate(), #trans = 186
+2a84f0f7BEGIN_REQ at1600979 ps
+68585ea6new , cmd= R, data= 7cd94321at time 1600979 ps
+68585ea6BEGIN_REQ at1609552 ps
+------------ called allocate(), #trans = 187
+5d27c5ecnew , cmd= R, data= 3a4be92aat time 1610390 ps
+------------ called allocate(), #trans = 188
+5d27c5ecBEGIN_REQ at1614779 ps
+7ebdb63dnew , cmd= W, data= 5a098b27at time 1614779 ps
+7ebdb63dBEGIN_REQ at1616353 ps
+------------ called allocate(), #trans = 189
+696da7c9new , cmd= W, data= ef9ad2fat time 1618669 ps
+696da7c9BEGIN_REQ at1618912 ps
+------------ called allocate(), #trans = 18a
+6c3db3c4new , cmd= R, data= 21be2f84at time 1627516 ps
+------------ called allocate(), #trans = 18b
+6c3db3c4BEGIN_REQ at1632636 ps
+46e70111new , cmd= W, data= e766383at time 1632636 ps
+46e70111BEGIN_REQ at1634210 ps
+------------ called allocate(), #trans = 18c
+9ae133enew , cmd= W, data= 43d60c21at time 1635510 ps
+9ae133eBEGIN_REQ at1636250 ps
+------------ called allocate(), #trans = 18d
+35569f99new , cmd= R, data= 6b80c94fat time 1639400 ps
+------------ called allocate(), #trans = 18e
+35569f99BEGIN_REQ at1642979 ps
+518afbeenew , cmd= W, data= 610fa1d6at time 1642979 ps
+------------ called allocate(), #trans = 18f
+518afbeeBEGIN_REQ at1648906 ps
+3b192cfdnew , cmd= R, data= 7547b1d6at time 1648906 ps
+------------ called allocate(), #trans = 190
+3b192cfdBEGIN_REQ at1654026 ps
+199792d3new , cmd= W, data= 49cc7c90at time 1654026 ps
+------------ called allocate(), #trans = 191
+199792d3BEGIN_REQ at1654106 ps
+4a226c56new , cmd= R, data= 12752537at time 1654106 ps
+------------ called allocate(), #trans = 192
+4a226c56BEGIN_REQ at1654123 ps
+6e92a33fnew , cmd= W, data= 444e323eat time 1654123 ps
+6e92a33fBEGIN_REQ at1654279 ps
+------------ called allocate(), #trans = 193
+68cbaf2dnew , cmd= R, data= 5d440695at time 1662428 ps
+68cbaf2dBEGIN_REQ at1662894 ps
+------------ called allocate(), #trans = 194
+45eb77e8new , cmd= R, data= 5badf95fat time 1669718 ps
+45eb77e8BEGIN_REQ at1669745 ps
+------------ called allocate(), #trans = 195
+1826e411new , cmd= W, data= 39797f44at time 1673608 ps
+------------ called allocate(), #trans = 196
+1826e411BEGIN_REQ at1673700 ps
+7492ac41new , cmd= W, data= 582340f8at time 1673700 ps
+7492ac41BEGIN_REQ at1674027 ps
+------------ called allocate(), #trans = 197
+78c999b4new , cmd= W, data= c013be2at time 1680060 ps
+------------ called allocate(), #trans = 198
+78c999b4BEGIN_REQ at1681816 ps
+46eca72anew , cmd= R, data= 5a098b27at time 1681816 ps
+46eca72aBEGIN_REQ at1682113 ps
+------------ called allocate(), #trans = 199
+5d603510new , cmd= W, data= 23e1696at time 1685101 ps
+------------ called allocate(), #trans = 19a
+5d603510BEGIN_REQ at1689153 ps
+12d2eee5new , cmd= R, data= 21be2f84at time 1689153 ps
+12d2eee5BEGIN_REQ at1689153 ps
+------------ called allocate(), #trans = 19b
+335e9e8dnew , cmd= W, data= 3128443aat time 1691899 ps
+335e9e8dBEGIN_REQ at1692074 ps
+------------ called allocate(), #trans = 19c
+6aa1c37enew , cmd= W, data= 29d6cf99at time 1692226 ps
+6aa1c37eBEGIN_REQ at1692226 ps
+------------ called allocate(), #trans = 19d
+1fa1091new , cmd= R, data= 6b80c94fat time 1694609 ps
+1fa1091BEGIN_REQ at1695714 ps
+------------ called allocate(), #trans = 19e
+5b33ee61new , cmd= W, data= 715079at time 1696878 ps
+------------ called allocate(), #trans = 19f
+5b33ee61BEGIN_REQ at1706004 ps
+2abd0c5anew , cmd= R, data= 7547b1d6at time 1706004 ps
+------------ called allocate(), #trans = 1a0
+2abd0c5aBEGIN_REQ at1706597 ps
+48ae393enew , cmd= W, data= 224002e8at time 1706597 ps
+------------ called allocate(), #trans = 1a1
+48ae393eBEGIN_REQ at1711717 ps
+f02b952new , cmd= W, data= 62b83e2bat time 1711717 ps
+------------ called allocate(), #trans = 1a2
+f02b952BEGIN_REQ at1712512 ps
+13e08266new , cmd= W, data= 3a63884dat time 1712512 ps
+------------ called allocate(), #trans = 1a3
+13e08266BEGIN_REQ at1719326 ps
+643a57e6new , cmd= R, data= 5d440695at time 1719326 ps
+643a57e6BEGIN_REQ at1719719 ps
+------------ called allocate(), #trans = 1a4
+5604a66dnew , cmd= W, data= 60f812bdat time 1720364 ps
+------------ called allocate(), #trans = 1a5
+5604a66dBEGIN_REQ at1728669 ps
+61696336new , cmd= W, data= 29aa94c7at time 1728669 ps
+61696336BEGIN_REQ at1728749 ps
+------------ called allocate(), #trans = 1a6
+1e9366aanew , cmd= R, data= 582340f8at time 1728749 ps
+1e9366aaBEGIN_REQ at1729489 ps
+------------ called allocate(), #trans = 1a7
+3683b3e2new , cmd= R, data= c013be2at time 1736535 ps
+3683b3e2BEGIN_REQ at1736928 ps
+------------ called allocate(), #trans = 1a8
+10f27d8cnew , cmd= R, data= 5a098b27at time 1742676 ps
+------------ called allocate(), #trans = 1a9
+10f27d8cBEGIN_REQ at1747796 ps
+164ce714new , cmd= R, data= 23e1696at time 1747796 ps
+164ce714BEGIN_REQ at1748707 ps
+------------ called allocate(), #trans = 1aa
+57aa92eanew , cmd= W, data= 7285e29dat time 1753723 ps
+------------ called allocate(), #trans = 1ab
+57aa92eaBEGIN_REQ at1755574 ps
+488a890anew , cmd= R, data= 3128443aat time 1755574 ps
+488a890aBEGIN_REQ at1756679 ps
+------------ called allocate(), #trans = 1ac
+38f855canew , cmd= R, data= 29d6cf99at time 1764421 ps
+38f855caBEGIN_REQ at1765061 ps
+------------ called allocate(), #trans = 1ad
+3b4ff9dbnew , cmd= R, data= 6b80c94fat time 1765597 ps
+3b4ff9dbBEGIN_REQ at1767353 ps
+------------ called allocate(), #trans = 1ae
+7b6c7dc6new , cmd= R, data= 715079at time 1772646 ps
+------------ called allocate(), #trans = 1af
+7b6c7dc6BEGIN_REQ at1776378 ps
+36a4c6e2new , cmd= W, data= 8aa4358at time 1776378 ps
+------------ called allocate(), #trans = 1b0
+36a4c6e2BEGIN_REQ at1780767 ps
+70a00f05new , cmd= R, data= 224002e8at time 1780767 ps
+70a00f05BEGIN_REQ at1781360 ps
+------------ called allocate(), #trans = 1b1
+642d3f9dnew , cmd= R, data= 62b83e2bat time 1789072 ps
+642d3f9dBEGIN_REQ at1794585 ps
+------------ called allocate(), #trans = 1b2
+1df1defbnew , cmd= W, data= 1f3dab44at time 1794585 ps
+1df1defbBEGIN_REQ at1794618 ps
+------------ called allocate(), #trans = 1b3
+1900c91cnew , cmd= W, data= 33ed493at time 1794634 ps
+1900c91cBEGIN_REQ at1794772 ps
+------------ called allocate(), #trans = 1b4
+3e8ece6enew , cmd= R, data= 60f812bdat time 1796208 ps
+3e8ece6eBEGIN_REQ at1796218 ps
+------------ called allocate(), #trans = 1b5
+7aa0799anew , cmd= R, data= 29aa94c7at time 1803994 ps
+------------ called allocate(), #trans = 1b6
+7aa0799aBEGIN_REQ at1806615 ps
+57102051new , cmd= W, data= 7b0282bfat time 1806615 ps
+------------ called allocate(), #trans = 1b7
+57102051BEGIN_REQ at1809900 ps
+6ba291c4new , cmd= R, data= c013be2at time 1809900 ps
+6ba291c4BEGIN_REQ at1809900 ps
+------------ called allocate(), #trans = 1b8
+43ac9e23new , cmd= R, data= 5a098b27at time 1811563 ps
+------------ called allocate(), #trans = 1b9
+43ac9e23BEGIN_REQ at1818612 ps
+7ba207f7new , cmd= R, data= 23e1696at time 1818612 ps
+------------ called allocate(), #trans = 1ba
+7ba207f7BEGIN_REQ at1818661 ps
+7293711fnew , cmd= W, data= decacafat time 1818661 ps
+7293711fBEGIN_REQ at1822713 ps
+------------ called allocate(), #trans = 1bb
+16311481new , cmd= W, data= 1e0b04a6at time 1823406 ps
+------------ called allocate(), #trans = 1bc
+16311481BEGIN_REQ at1827795 ps
+18ab7e41new , cmd= R, data= 29d6cf99at time 1827795 ps
+18ab7e41BEGIN_REQ at1828154 ps
+------------ called allocate(), #trans = 1bd
+1727474fnew , cmd= R, data= 6b80c94fat time 1828261 ps
+------------ called allocate(), #trans = 1be
+1727474fBEGIN_REQ at1837963 ps
+69f23e34new , cmd= R, data= 715079at time 1837963 ps
+69f23e34BEGIN_REQ at1838556 ps
+------------ called allocate(), #trans = 1bf
+7044c6efnew , cmd= R, data= 8aa4358at time 1841393 ps
+------------ called allocate(), #trans = 1c0
+7044c6efBEGIN_REQ at1847753 ps
+64d45037new , cmd= W, data= 26ebf166at time 1847753 ps
+------------ called allocate(), #trans = 1c1
+64d45037BEGIN_REQ at1848219 ps
+197f6285new , cmd= W, data= 562db0c2at time 1848219 ps
+197f6285BEGIN_REQ at1848287 ps
+------------ called allocate(), #trans = 1c2
+6c5ec544new , cmd= R, data= 1f3dab44at time 1851226 ps
+6c5ec544BEGIN_REQ at1851619 ps
+------------ called allocate(), #trans = 1c3
+63649bdnew , cmd= W, data= 4c21b9d2at time 1851866 ps
+------------ called allocate(), #trans = 1c4
+63649bdBEGIN_REQ at1853116 ps
+63490122new , cmd= R, data= 60f812bdat time 1853116 ps
+63490122BEGIN_REQ at1853386 ps
+------------ called allocate(), #trans = 1c5
+7d7af69dnew , cmd= R, data= 29aa94c7at time 1854442 ps
+------------ called allocate(), #trans = 1c6
+7d7af69dBEGIN_REQ at1861732 ps
+39951379new , cmd= R, data= 7b0282bfat time 1861732 ps
+39951379BEGIN_REQ at1862125 ps
+------------ called allocate(), #trans = 1c7
+40a2661bnew , cmd= W, data= 68eecf6fat time 1865017 ps
+40a2661bBEGIN_REQ at1865314 ps
+------------ called allocate(), #trans = 1c8
+26e31f4new , cmd= R, data= 5a098b27at time 1866343 ps
+------------ called allocate(), #trans = 1c9
+26e31f4BEGIN_REQ at1875469 ps
+600b0bf0new , cmd= W, data= 55729684at time 1875469 ps
+------------ called allocate(), #trans = 1ca
+600b0bf0BEGIN_REQ at1879521 ps
+5ba8e042new , cmd= W, data= 2b620264at time 1879521 ps
+5ba8e042BEGIN_REQ at1879561 ps
+------------ called allocate(), #trans = 1cb
+eab0386new , cmd= W, data= 7de33aa2at time 1880927 ps
+------------ called allocate(), #trans = 1cc
+eab0386BEGIN_REQ at1881286 ps
+4733872dnew , cmd= W, data= 4dbed8b5at time 1881286 ps
+------------ called allocate(), #trans = 1cd
+4733872dBEGIN_REQ at1888576 ps
+36313fb3new , cmd= R, data= 6b80c94fat time 1888576 ps
+36313fb3BEGIN_REQ at1889549 ps
+------------ called allocate(), #trans = 1ce
+2bba481fnew , cmd= W, data= f42bb0eat time 1898278 ps
+2bba481fBEGIN_REQ at1898497 ps
+------------ called allocate(), #trans = 1cf
+7619ab87new , cmd= R, data= 8aa4358at time 1899454 ps
+------------ called allocate(), #trans = 1d0
+7619ab87BEGIN_REQ at1906503 ps
+155aeac4new , cmd= W, data= 288fa9d6at time 1906503 ps
+------------ called allocate(), #trans = 1d1
+155aeac4BEGIN_REQ at1913793 ps
+53f1ac3anew , cmd= W, data= 5f1d2adcat time 1913793 ps
+53f1ac3aBEGIN_REQ at1918182 ps
+------------ called allocate(), #trans = 1d2
+5d00657fnew , cmd= W, data= 3f65e096at time 1919720 ps
+5d00657fBEGIN_REQ at1919720 ps
+------------ called allocate(), #trans = 1d3
+d24b94bnew , cmd= R, data= 4c21b9d2at time 1925647 ps
+d24b94bBEGIN_REQ at1926075 ps
+------------ called allocate(), #trans = 1d4
+67c80002new , cmd= W, data= 41ef7456at time 1929865 ps
+67c80002BEGIN_REQ at1931115 ps
+------------ called allocate(), #trans = 1d5
+51322f64new , cmd= R, data= 29aa94c7at time 1932248 ps
+51322f64BEGIN_REQ at1934869 ps
+------------ called allocate(), #trans = 1d6
+1931676new , cmd= W, data= 109b3c30at time 1937178 ps
+1931676BEGIN_REQ at1937571 ps
+------------ called allocate(), #trans = 1d7
+392ae607new , cmd= W, data= 3a5e689at time 1940463 ps
+------------ called allocate(), #trans = 1d8
+392ae607BEGIN_REQ at1942314 ps
+62c31166new , cmd= R, data= 5a098b27at time 1942314 ps
+------------ called allocate(), #trans = 1d9
+62c31166BEGIN_REQ at1946046 ps
+6b92899bnew , cmd= R, data= 55729684at time 1946046 ps
+------------ called allocate(), #trans = 1da
+6b92899bBEGIN_REQ at1948792 ps
+73e262b9new , cmd= W, data= 3ed5885bat time 1948792 ps
+------------ called allocate(), #trans = 1db
+73e262b9BEGIN_REQ at1953181 ps
+32afbb81new , cmd= R, data= 7de33aa2at time 1953181 ps
+32afbb81BEGIN_REQ at1955341 ps
+------------ called allocate(), #trans = 1dc
+4a59ff72new , cmd= R, data= 4dbed8b5at time 1955681 ps
+------------ called allocate(), #trans = 1dd
+4a59ff72BEGIN_REQ at1955877 ps
+477c0bb4new , cmd= W, data= 2241168eat time 1955877 ps
+477c0bb4BEGIN_REQ at1956147 ps
+------------ called allocate(), #trans = 1de
+5b6bfc95new , cmd= W, data= 11c061f3at time 1957451 ps
+5b6bfc95BEGIN_REQ at1957647 ps
+------------ called allocate(), #trans = 1df
+74837359new , cmd= W, data= 3f45c8afat time 1966024 ps
+74837359BEGIN_REQ at1966082 ps
+------------ called allocate(), #trans = 1e0
+2603721dnew , cmd= W, data= 55d6498cat time 1968184 ps
+2603721dBEGIN_REQ at1968481 ps
+------------ called allocate(), #trans = 1e1
+14abd1e8new , cmd= W, data= 11ee2399at time 1968979 ps
+14abd1e8BEGIN_REQ at1969 ns
+------------ called allocate(), #trans = 1e2
+162c56a1new , cmd= R, data= 3f65e096at time 1971362 ps
+------------ called allocate(), #trans = 1e3
+162c56a1BEGIN_REQ at1980209 ps
+70d89fb8new , cmd= R, data= 4c21b9d2at time 1980209 ps
+------------ called allocate(), #trans = 1e4
+70d89fb8BEGIN_REQ at1989911 ps
+4886f0fdnew , cmd= W, data= 42491a9bat time 1989911 ps
+------------ called allocate(), #trans = 1e5
+4886f0fdBEGIN_REQ at1997201 ps
+54097c8enew , cmd= W, data= 453d88at time 1997201 ps
+54097c8eBEGIN_REQ at1997206 ps
+------------ called allocate(), #trans = 1e6
+3f8b0638new , cmd= R, data= 109b3c30at time 2002714 ps
+------------ called allocate(), #trans = 1e7
+3f8b0638BEGIN_REQ at2011287 ps
+151227f6new , cmd= W, data= 7f744d2cat time 2011287 ps
+------------ called allocate(), #trans = 1e8
+151227f6BEGIN_REQ at2013138 ps
+50927dbcnew , cmd= R, data= 5a098b27at time 2013138 ps
+------------ called allocate(), #trans = 1e9
+50927dbcBEGIN_REQ at2015759 ps
+5e5edae3new , cmd= W, data= 2f787e6aat time 2015759 ps
+------------ called allocate(), #trans = 1ea
+5e5edae3BEGIN_REQ at2015934 ps
+55be58d9new , cmd= W, data= 1376c762at time 2015934 ps
+------------ called allocate(), #trans = 1eb
+55be58d9BEGIN_REQ at2018808 ps
+55bfe1fdnew , cmd= R, data= 7de33aa2at time 2018808 ps
+55bfe1fdBEGIN_REQ at2019846 ps
+------------ called allocate(), #trans = 1ec
+4eb3b3d2new , cmd= R, data= 4dbed8b5at time 2027381 ps
+4eb3b3d2BEGIN_REQ at2027381 ps
+------------ called allocate(), #trans = 1ed
+8286448new , cmd= R, data= 2241168eat time 2029541 ps
+8286448BEGIN_REQ at2031204 ps
+------------ called allocate(), #trans = 1ee
+43c5090new , cmd= W, data= 6d2b29caat time 2033431 ps
+43c5090BEGIN_REQ at2033432 ps
+------------ called allocate(), #trans = 1ef
+3dbda786new , cmd= W, data= 47edadcfat time 2034404 ps
+3dbda786BEGIN_REQ at2034404 ps
+------------ called allocate(), #trans = 1f0
+365d3648new , cmd= R, data= 55d6498cat time 2041694 ps
+------------ called allocate(), #trans = 1f1
+365d3648BEGIN_REQ at2044838 ps
+5dccfd23new , cmd= W, data= 291c25dbat time 2044838 ps
+5dccfd23BEGIN_REQ at2044838 ps
+------------ called allocate(), #trans = 1f2
+7edc07d8new , cmd= R, data= 3f65e096at time 2046164 ps
+7edc07d8BEGIN_REQ at2047490 ps
+------------ called allocate(), #trans = 1f3
+cfe3234new , cmd= W, data= 1afbb4d7at time 2053699 ps
+cfe3234BEGIN_REQ at2054804 ps
+------------ called allocate(), #trans = 1f4
+a25dd71new , cmd= R, data= 42491a9bat time 2057917 ps
+a25dd71BEGIN_REQ at2057917 ps
+------------ called allocate(), #trans = 1f5
+76dc7623new , cmd= R, data= 453d88at time 2058160 ps
+76dc7623BEGIN_REQ at2058553 ps
+------------ called allocate(), #trans = 1f6
+b4a2918new , cmd= W, data= 2c48812cat time 2059336 ps
+------------ called allocate(), #trans = 1f7
+b4a2918BEGIN_REQ at2061957 ps
+62a5b774new , cmd= W, data= 482e5c33at time 2061957 ps
+62a5b774BEGIN_REQ at2062316 ps
+------------ called allocate(), #trans = 1f8
+41ba11a8new , cmd= R, data= 5a098b27at time 2062697 ps
+------------ called allocate(), #trans = 1f9
+41ba11a8BEGIN_REQ at2071544 ps
+204343a0new , cmd= R, data= 2f787e6aat time 2071544 ps
+204343a0BEGIN_REQ at2071554 ps
+------------ called allocate(), #trans = 1fa
+1116e7f6new , cmd= W, data= 63e45edbat time 2071763 ps
+------------ called allocate(), #trans = 1fb
+1116e7f6BEGIN_REQ at2080068 ps
+6e0a3c4cnew , cmd= R, data= 7de33aa2at time 2080068 ps
+6e0a3c4cBEGIN_REQ at2080224 ps
+------------ called allocate(), #trans = 1fc
+64d46d75new , cmd= W, data= 454f4987at time 2086209 ps
+64d46d75BEGIN_REQ at2087872 ps
+------------ called allocate(), #trans = 1fd
+10e55e3cnew , cmd= W, data= 37704640at time 2091329 ps
+------------ called allocate(), #trans = 1fe
+10e55e3cBEGIN_REQ at2094336 ps
+235f3983new , cmd= R, data= 6d2b29caat time 2094336 ps
+235f3983BEGIN_REQ at2094579 ps
+------------ called allocate(), #trans = 1ff
+4775f12anew , cmd= R, data= 47edadcfat time 2095309 ps
+------------ called allocate(), #trans = 200
+4775f12aBEGIN_REQ at2103614 ps
+12130ecanew , cmd= R, data= 55d6498cat time 2103614 ps
+12130ecaBEGIN_REQ at2103619 ps
+------------ called allocate(), #trans = 201
+4818ff02new , cmd= W, data= 3ee017a9at time 2109974 ps
+------------ called allocate(), #trans = 202
+4818ff02BEGIN_REQ at2110825 ps
+2cea53f5new , cmd= W, data= 5ca6b8ffat time 2110825 ps
+------------ called allocate(), #trans = 203
+2cea53f5BEGIN_REQ at2112776 ps
+24ec872enew , cmd= W, data= 359abfdbat time 2112776 ps
+------------ called allocate(), #trans = 204
+24ec872eBEGIN_REQ at2114727 ps
+2b1281dbnew , cmd= W, data= 3d18e954at time 2114727 ps
+------------ called allocate(), #trans = 205
+2b1281dbBEGIN_REQ at2118945 ps
+42d4c8d6new , cmd= R, data= 453d88at time 2118945 ps
+42d4c8d6BEGIN_REQ at2118950 ps
+------------ called allocate(), #trans = 206
+456855danew , cmd= R, data= 2c48812cat time 2119585 ps
+------------ called allocate(), #trans = 207
+456855daBEGIN_REQ at2125945 ps
+2a52a07anew , cmd= R, data= 482e5c33at time 2125945 ps
+------------ called allocate(), #trans = 208
+2a52a07aBEGIN_REQ at2126066 ps
+5484ca8fnew , cmd= W, data= c0ab9bdat time 2126066 ps
+------------ called allocate(), #trans = 209
+5484ca8fBEGIN_REQ at2126425 ps
+13a1cb50new , cmd= R, data= 2f787e6aat time 2126425 ps
+------------ called allocate(), #trans = 20a
+13a1cb50BEGIN_REQ at2129710 ps
+3805771fnew , cmd= R, data= 63e45edbat time 2129710 ps
+3805771fBEGIN_REQ at2129715 ps
+------------ called allocate(), #trans = 20b
+35c9b524new , cmd= W, data= 606eba4cat time 2135024 ps
+35c9b524BEGIN_REQ at2135243 ps
+------------ called allocate(), #trans = 20c
+33bab887new , cmd= W, data= 3783120eat time 2137407 ps
+------------ called allocate(), #trans = 20d
+33bab887BEGIN_REQ at2139460 ps
+7ceb67e9new , cmd= R, data= 37704640at time 2139460 ps
+7ceb67e9BEGIN_REQ at2141729 ps
+------------ called allocate(), #trans = 20e
+11c50a94new , cmd= W, data= 6ddea01at time 2144973 ps
+------------ called allocate(), #trans = 20f
+11c50a94BEGIN_REQ at2145216 ps
+78351f1enew , cmd= R, data= 47edadcfat time 2145216 ps
+78351f1eBEGIN_REQ at2146067 ps
+------------ called allocate(), #trans = 210
+23dd2f1enew , cmd= W, data= 5e0eef86at time 2147067 ps
+------------ called allocate(), #trans = 211
+23dd2f1eBEGIN_REQ at2151812 ps
+144d3ea4new , cmd= R, data= 3ee017a9at time 2151812 ps
+144d3ea4BEGIN_REQ at2152501 ps
+------------ called allocate(), #trans = 212
+3a4d0fb9new , cmd= R, data= 5ca6b8ffat time 2157739 ps
+------------ called allocate(), #trans = 213
+3a4d0fb9BEGIN_REQ at2160485 ps
+54b99a69new , cmd= R, data= 359abfdbat time 2160485 ps
+------------ called allocate(), #trans = 214
+54b99a69BEGIN_REQ at2162436 ps
+32b31adfnew , cmd= W, data= 304de52eat time 2162436 ps
+32b31adfBEGIN_REQ at2168577 ps
+------------ called allocate(), #trans = 215
+4212efc3new , cmd= R, data= 453d88at time 2169485 ps
+------------ called allocate(), #trans = 216
+4212efc3BEGIN_REQ at2170458 ps
+2832eebbnew , cmd= W, data= 567efda2at time 2170458 ps
+2832eebbBEGIN_REQ at2170458 ps
+------------ called allocate(), #trans = 217
+7a5c2cc0new , cmd= W, data= 1aa57e74at time 2171708 ps
+------------ called allocate(), #trans = 218
+7a5c2cc0BEGIN_REQ at2172958 ps
+2ef2bd18new , cmd= W, data= 15c9ce22at time 2172958 ps
+------------ called allocate(), #trans = 219
+2ef2bd18BEGIN_REQ at2173647 ps
+36c8b004new , cmd= R, data= 2f787e6aat time 2173647 ps
+------------ called allocate(), #trans = 21a
+36c8b004BEGIN_REQ at2175221 ps
+28b43cb2new , cmd= R, data= 63e45edbat time 2175221 ps
+28b43cb2BEGIN_REQ at2176795 ps
+------------ called allocate(), #trans = 21b
+78be8ae7new , cmd= R, data= 606eba4cat time 2180535 ps
+78be8ae7BEGIN_REQ at2180593 ps
+------------ called allocate(), #trans = 21c
+46be9a73new , cmd= W, data= 4db63022at time 2182695 ps
+------------ called allocate(), #trans = 21d
+46be9a73BEGIN_REQ at2185195 ps
+73d616dfnew , cmd= W, data= 6a2eec02at time 2185195 ps
+73d616dfBEGIN_REQ at2185195 ps
+------------ called allocate(), #trans = 21e
+2f5a608fnew , cmd= W, data= 7c2404e0at time 2189760 ps
+2f5a608fBEGIN_REQ at2189777 ps
+------------ called allocate(), #trans = 21f
+73fd2ec1new , cmd= W, data= 730e923bat time 2196120 ps
+------------ called allocate(), #trans = 220
+73fd2ec1BEGIN_REQ at2201837 ps
+2911d55dnew , cmd= W, data= 5ca8cfb1at time 2201837 ps
+2911d55dBEGIN_REQ at2202875 ps
+------------ called allocate(), #trans = 221
+31069533new , cmd= R, data= 3ee017a9at time 2203325 ps
+------------ called allocate(), #trans = 222
+31069533BEGIN_REQ at2203463 ps
+6851527fnew , cmd= R, data= 5ca6b8ffat time 2203463 ps
+6851527fBEGIN_REQ at2203476 ps
+------------ called allocate(), #trans = 223
+2d9d673new , cmd= R, data= 359abfdbat time 2203490 ps
+------------ called allocate(), #trans = 224
+2d9d673BEGIN_REQ at2209417 ps
+6cf44088new , cmd= W, data= 271c9320at time 2209417 ps
+------------ called allocate(), #trans = 225
+6cf44088BEGIN_REQ at2211686 ps
+722eb761new , cmd= W, data= 58541c1fat time 2211686 ps
+------------ called allocate(), #trans = 226
+722eb761BEGIN_REQ at2214186 ps
+72b1f15enew , cmd= R, data= 567efda2at time 2214186 ps
+------------ called allocate(), #trans = 227
+72b1f15eBEGIN_REQ at2222491 ps
+8540053new , cmd= W, data= 20814652at time 2222491 ps
+------------ called allocate(), #trans = 228
+8540053BEGIN_REQ at2228004 ps
+5187db85new , cmd= W, data= 98964edat time 2228004 ps
+------------ called allocate(), #trans = 229
+5187db85BEGIN_REQ at2228053 ps
+3ead0b3enew , cmd= R, data= 2f787e6aat time 2228053 ps
+------------ called allocate(), #trans = 22a
+3ead0b3eBEGIN_REQ at2233173 ps
+d1e045enew , cmd= R, data= 63e45edbat time 2233173 ps
+d1e045eBEGIN_REQ at2233601 ps
+------------ called allocate(), #trans = 22b
+b5fe17fnew , cmd= W, data= 44e3e418at time 2233721 ps
+------------ called allocate(), #trans = 22c
+b5fe17fBEGIN_REQ at2234461 ps
+bd98829new , cmd= W, data= 3db5b240at time 2234461 ps
+bd98829BEGIN_REQ at2236217 ps
+------------ called allocate(), #trans = 22d
+1cf7dd37new , cmd= R, data= 6a2eec02at time 2236961 ps
+------------ called allocate(), #trans = 22e
+1cf7dd37BEGIN_REQ at2242081 ps
+7f7a0a65new , cmd= W, data= 7f65efedat time 2242081 ps
+------------ called allocate(), #trans = 22f
+7f7a0a65BEGIN_REQ at2246133 ps
+6ad6bf0new , cmd= R, data= 730e923bat time 2246133 ps
+6ad6bf0BEGIN_REQ at2248402 ps
+------------ called allocate(), #trans = 230
+3be1a1b2new , cmd= W, data= 23099f0eat time 2249563 ps
+------------ called allocate(), #trans = 231
+3be1a1b2BEGIN_REQ at2254493 ps
+a03cc1anew , cmd= R, data= 3ee017a9at time 2254493 ps
+a03cc1aBEGIN_REQ at2255041 ps
+------------ called allocate(), #trans = 232
+14f2b48anew , cmd= R, data= 5ca6b8ffat time 2255233 ps
+------------ called allocate(), #trans = 233
+14f2b48aBEGIN_REQ at2261160 ps
+42da6328new , cmd= W, data= 242a804fat time 2261160 ps
+------------ called allocate(), #trans = 234
+42da6328BEGIN_REQ at2270007 ps
+41225d86new , cmd= R, data= 271c9320at time 2270007 ps
+------------ called allocate(), #trans = 235
+41225d86BEGIN_REQ at2271763 ps
+31035eb3new , cmd= W, data= 65d42afeat time 2271763 ps
+------------ called allocate(), #trans = 236
+31035eb3BEGIN_REQ at2274146 ps
+6c8196eenew , cmd= R, data= 567efda2at time 2274146 ps
+------------ called allocate(), #trans = 237
+6c8196eeBEGIN_REQ at2275997 ps
+5dc4c860new , cmd= W, data= 5d1706eat time 2275997 ps
+5dc4c860BEGIN_REQ at2279576 ps
+------------ called allocate(), #trans = 238
+fd53c88new , cmd= W, data= 6ef9a131at time 2285699 ps
+------------ called allocate(), #trans = 239
+fd53c88BEGIN_REQ at2286672 ps
+25fa7c30new , cmd= R, data= 2f787e6aat time 2286672 ps
+25fa7c30BEGIN_REQ at2287922 ps
+------------ called allocate(), #trans = 23a
+45b444fbnew , cmd= R, data= 63e45edbat time 2290404 ps
+------------ called allocate(), #trans = 23b
+45b444fbBEGIN_REQ at2293548 ps
+7180fe98new , cmd= R, data= 44e3e418at time 2293548 ps
+------------ called allocate(), #trans = 23c
+7180fe98BEGIN_REQ at2297937 ps
+5508507dnew , cmd= W, data= 3dc364a7at time 2297937 ps
+5508507dBEGIN_REQ at2297970 ps
+------------ called allocate(), #trans = 23d
+2a44fb95new , cmd= W, data= 7f1308d5at time 2298005 ps
+2a44fb95BEGIN_REQ at2298012 ps
+------------ called allocate(), #trans = 23e
+3e50120new , cmd= W, data= 548c1b88at time 2298012 ps
+------------ called allocate(), #trans = 23f
+3e50120BEGIN_REQ at2298309 ps
+6558b9b2new , cmd= R, data= 730e923bat time 2298309 ps
+------------ called allocate(), #trans = 240
+6558b9b2BEGIN_REQ at2299282 ps
+15b5c8ccnew , cmd= W, data= 174c2d28at time 2299282 ps
+------------ called allocate(), #trans = 241
+15b5c8ccBEGIN_REQ at2299501 ps
+47aace3anew , cmd= R, data= 3ee017a9at time 2299501 ps
+47aace3aBEGIN_REQ at2300352 ps
+------------ called allocate(), #trans = 242
+150b376anew , cmd= R, data= 5ca6b8ffat time 2307806 ps
+150b376aBEGIN_REQ at2307806 ps
+------------ called allocate(), #trans = 243
+55a79777new , cmd= W, data= 63ca689fat time 2311538 ps
+55a79777BEGIN_REQ at2311606 ps
+------------ called allocate(), #trans = 244
+7f647005new , cmd= R, data= 271c9320at time 2319581 ps
+7f647005BEGIN_REQ at2321155 ps
+------------ called allocate(), #trans = 245
+3dcd5f98new , cmd= R, data= 65d42afeat time 2323011 ps
+3dcd5f98BEGIN_REQ at2324674 ps
+------------ called allocate(), #trans = 246
+3bc1eafenew , cmd= W, data= 2e4a579fat time 2325064 ps
+------------ called allocate(), #trans = 247
+3bc1eafeBEGIN_REQ at2326169 ps
+4400206cnew , cmd= W, data= 550c4e92at time 2326169 ps
+------------ called allocate(), #trans = 248
+4400206cBEGIN_REQ at2329313 ps
+1cb71cccnew , cmd= W, data= 4fe3afa2at time 2329313 ps
+1cb71cccBEGIN_REQ at2329313 ps
+------------ called allocate(), #trans = 249
+73011bb6new , cmd= W, data= 32afcd83at time 2335898 ps
+------------ called allocate(), #trans = 24a
+73011bb6BEGIN_REQ at2339183 ps
+167a3623new , cmd= R, data= 63e45edbat time 2339183 ps
+------------ called allocate(), #trans = 24b
+167a3623BEGIN_REQ at2342762 ps
+3d666748new , cmd= R, data= 44e3e418at time 2342762 ps
+------------ called allocate(), #trans = 24c
+3d666748BEGIN_REQ at2349122 ps
+4e3e66b8new , cmd= W, data= 39c2d1e3at time 2349122 ps
+------------ called allocate(), #trans = 24d
+4e3e66b8BEGIN_REQ at2353867 ps
+680d2983new , cmd= R, data= 7f1308d5at time 2353867 ps
+680d2983BEGIN_REQ at2356613 ps
+------------ called allocate(), #trans = 24e
+7305e21cnew , cmd= W, data= 6e98127fat time 2363569 ps
+------------ called allocate(), #trans = 24f
+7305e21cBEGIN_REQ at2365520 ps
+222920b0new , cmd= R, data= 730e923bat time 2365520 ps
+------------ called allocate(), #trans = 250
+222920b0BEGIN_REQ at2372105 ps
+429f2616new , cmd= R, data= 174c2d28at time 2372105 ps
+429f2616BEGIN_REQ at2372698 ps
+------------ called allocate(), #trans = 251
+30da180cnew , cmd= R, data= 3ee017a9at time 2373431 ps
+------------ called allocate(), #trans = 252
+30da180cBEGIN_REQ at2381217 ps
+49ce101anew , cmd= R, data= 5ca6b8ffat time 2381217 ps
+49ce101aBEGIN_REQ at2381323 ps
+------------ called allocate(), #trans = 253
+4760103dnew , cmd= R, data= 63ca689fat time 2389260 ps
+------------ called allocate(), #trans = 254
+4760103dBEGIN_REQ at2395620 ps
+6d488818new , cmd= W, data= 69300ba3at time 2395620 ps
+6d488818BEGIN_REQ at2395620 ps
+------------ called allocate(), #trans = 255
+153d5592new , cmd= R, data= 65d42afeat time 2395795 ps
+153d5592BEGIN_REQ at2396971 ps
+------------ called allocate(), #trans = 256
+6db765b4new , cmd= W, data= 25fe88c2at time 2397746 ps
+------------ called allocate(), #trans = 257
+6db765b4BEGIN_REQ at2397965 ps
+10c3ef0enew , cmd= R, data= 550c4e92at time 2397965 ps
+10c3ef0eBEGIN_REQ at2397992 ps
+------------ called allocate(), #trans = 258
+b3c6f6enew , cmd= W, data= 62288cd0at time 2397992 ps
+------------ called allocate(), #trans = 259
+b3c6f6eBEGIN_REQ at2399566 ps
+2bf69cebnew , cmd= R, data= 32afcd83at time 2399566 ps
+2bf69cebBEGIN_REQ at2401417 ps
+------------ called allocate(), #trans = 25a
+2d8eab1bnew , cmd= W, data= 38c7ca4aat time 2401726 ps
+2d8eab1bBEGIN_REQ at2404347 ps
+------------ called allocate(), #trans = 25b
+7bc257e7new , cmd= W, data= 6f19e13dat time 2407443 ps
+7bc257e7BEGIN_REQ at2407802 ps
+------------ called allocate(), #trans = 25c
+5d16ec34new , cmd= W, data= 30f45684at time 2408183 ps
+------------ called allocate(), #trans = 25d
+5d16ec34BEGIN_REQ at2411327 ps
+56f2df46new , cmd= W, data= 2d7d52e1at time 2411327 ps
+56f2df46BEGIN_REQ at2411419 ps
+------------ called allocate(), #trans = 25e
+2b518b0fnew , cmd= W, data= 1354c795at time 2413380 ps
+2b518b0fBEGIN_REQ at2414120 ps
+------------ called allocate(), #trans = 25f
+2d571917new , cmd= W, data= 240f1aeeat time 2414175 ps
+2d571917BEGIN_REQ at2416558 ps
+------------ called allocate(), #trans = 260
+2875ade6new , cmd= W, data= 12f42fbdat time 2420535 ps
+2875ade6BEGIN_REQ at2420584 ps
+------------ called allocate(), #trans = 261
+716e820new , cmd= R, data= 3ee017a9at time 2422804 ps
+716e820BEGIN_REQ at2422853 ps
+------------ called allocate(), #trans = 262
+68162d52new , cmd= W, data= 5347b592at time 2425678 ps
+------------ called allocate(), #trans = 263
+68162d52BEGIN_REQ at2433721 ps
+1e16077anew , cmd= W, data= 3cada969at time 2433721 ps
+1e16077aBEGIN_REQ at2434149 ps
+------------ called allocate(), #trans = 264
+246477benew , cmd= W, data= 275c0b96at time 2434694 ps
+------------ called allocate(), #trans = 265
+246477beBEGIN_REQ at2434743 ps
+15be6e0new , cmd= W, data= 6efe024cat time 2434743 ps
+------------ called allocate(), #trans = 266
+15be6e0BEGIN_REQ at2438795 ps
+283b642new , cmd= R, data= 25fe88c2at time 2438795 ps
+------------ called allocate(), #trans = 267
+283b642BEGIN_REQ at2447100 ps
+8f21b9anew , cmd= W, data= 335e01a1at time 2447100 ps
+8f21b9aBEGIN_REQ at2447493 ps
+------------ called allocate(), #trans = 268
+3b0586cenew , cmd= R, data= 62288cd0at time 2447693 ps
+3b0586ceBEGIN_REQ at2448869 ps
+------------ called allocate(), #trans = 269
+598182aanew , cmd= R, data= 32afcd83at time 2455736 ps
+598182aaBEGIN_REQ at2455736 ps
+------------ called allocate(), #trans = 26a
+17b8a930new , cmd= W, data= 1dd1539cat time 2455737 ps
+17b8a930BEGIN_REQ at2455737 ps
+------------ called allocate(), #trans = 26b
+4c23753bnew , cmd= R, data= 6f19e13dat time 2456588 ps
+------------ called allocate(), #trans = 26c
+4c23753bBEGIN_REQ at2458857 ps
+3c7b1c2dnew , cmd= R, data= 30f45684at time 2458857 ps
+------------ called allocate(), #trans = 26d
+3c7b1c2dBEGIN_REQ at2459962 ps
+79d63782new , cmd= R, data= 2d7d52e1at time 2459962 ps
+79d63782BEGIN_REQ at2460555 ps
+------------ called allocate(), #trans = 26e
+42e42c51new , cmd= W, data= 58f70f47at time 2468809 ps
+42e42c51BEGIN_REQ at2468984 ps
+------------ called allocate(), #trans = 26f
+1626075anew , cmd= R, data= 240f1aeeat time 2473929 ps
+1626075aBEGIN_REQ at2474256 ps
+------------ called allocate(), #trans = 270
+2113af2dnew , cmd= W, data= 496a84aat time 2475335 ps
+------------ called allocate(), #trans = 271
+2113af2dBEGIN_REQ at2477604 ps
+1c4f517anew , cmd= W, data= 2a7c414cat time 2477604 ps
+1c4f517aBEGIN_REQ at2479092 ps
+------------ called allocate(), #trans = 272
+769fb688new , cmd= W, data= 30551618at time 2481183 ps
+------------ called allocate(), #trans = 273
+769fb688BEGIN_REQ at2482288 ps
+53af4bb7new , cmd= R, data= 3cada969at time 2482288 ps
+------------ called allocate(), #trans = 274
+53af4bb7BEGIN_REQ at2482794 ps
+7e8cb2new , cmd= W, data= 464d6a85at time 2482794 ps
+7e8cb2BEGIN_REQ at2485294 ps
+------------ called allocate(), #trans = 275
+1f4479ccnew , cmd= R, data= 6efe024cat time 2486846 ps
+------------ called allocate(), #trans = 276
+1f4479ccBEGIN_REQ at2488420 ps
+6aec9bb6new , cmd= W, data= 70d5ade6at time 2488420 ps
+------------ called allocate(), #trans = 277
+6aec9bb6BEGIN_REQ at2491041 ps
+756c5631new , cmd= W, data= 22601fa6at time 2491041 ps
+------------ called allocate(), #trans = 278
+756c5631BEGIN_REQ at2491237 ps
+4cdc60f2new , cmd= R, data= 62288cd0at time 2491237 ps
+------------ called allocate(), #trans = 279
+4cdc60f2BEGIN_REQ at2495455 ps
+2cffd35anew , cmd= R, data= 32afcd83at time 2495455 ps
+------------ called allocate(), #trans = 27a
+2cffd35aBEGIN_REQ at2503760 ps
+4ed5c997new , cmd= R, data= 1dd1539cat time 2503760 ps
+------------ called allocate(), #trans = 27b
+4ed5c997BEGIN_REQ at2511050 ps
+49972ed8new , cmd= W, data= 62a8b755at time 2511050 ps
+49972ed8BEGIN_REQ at2511067 ps
+------------ called allocate(), #trans = 27c
+1ed3121new , cmd= R, data= 30f45684at time 2519093 ps
+1ed3121BEGIN_REQ at2520198 ps
+------------ called allocate(), #trans = 27d
+318b6a88new , cmd= W, data= 282d602eat time 2520419 ps
+318b6a88BEGIN_REQ at2520557 ps
+------------ called allocate(), #trans = 27e
+1d99b65fnew , cmd= R, data= 58f70f47at time 2520662 ps
+1d99b65fBEGIN_REQ at2526379 ps
+------------ called allocate(), #trans = 27f
+4b901466new , cmd= W, data= 712380e7at time 2527022 ps
+4b901466BEGIN_REQ at2527415 ps
+------------ called allocate(), #trans = 280
+1e235441new , cmd= R, data= 496a84aat time 2527488 ps
+------------ called allocate(), #trans = 281
+1e235441BEGIN_REQ at2527758 ps
+605dc3a5new , cmd= W, data= 1588698bat time 2527758 ps
+605dc3a5BEGIN_REQ at2529609 ps
+------------ called allocate(), #trans = 282
+22a9a886new , cmd= R, data= 30551618at time 2531648 ps
+------------ called allocate(), #trans = 283
+22a9a886BEGIN_REQ at2537789 ps
+614ef8ebnew , cmd= W, data= 216bc78cat time 2537789 ps
+------------ called allocate(), #trans = 284
+614ef8ebBEGIN_REQ at2544149 ps
+3f69c3fnew , cmd= R, data= 464d6a85at time 2544149 ps
+------------ called allocate(), #trans = 285
+3f69c3fBEGIN_REQ at2548538 ps
+5e6dc1bfnew , cmd= R, data= 6efe024cat time 2548538 ps
+------------ called allocate(), #trans = 286
+5e6dc1bfBEGIN_REQ at2551545 ps
+53f4fb45new , cmd= R, data= 70d5ade6at time 2551545 ps
+53f4fb45BEGIN_REQ at2551904 ps
+------------ called allocate(), #trans = 287
+294bef34new , cmd= R, data= 22601fa6at time 2555124 ps
+294bef34BEGIN_REQ at2555173 ps
+------------ called allocate(), #trans = 288
+fd9e937new , cmd= R, data= 62288cd0at time 2559342 ps
+fd9e937BEGIN_REQ at2559342 ps
+------------ called allocate(), #trans = 289
+58f5459bnew , cmd= W, data= 480bfb49at time 2559345 ps
+58f5459bBEGIN_REQ at2561196 ps
+------------ called allocate(), #trans = 28a
+78ebc8dnew , cmd= R, data= 1dd1539cat time 2561398 ps
+78ebc8dBEGIN_REQ at2562648 ps
+------------ called allocate(), #trans = 28b
+324cb182new , cmd= R, data= 62a8b755at time 2563249 ps
+------------ called allocate(), #trans = 28c
+324cb182BEGIN_REQ at2565409 ps
+1c51caffnew , cmd= R, data= 30f45684at time 2565409 ps
+1c51caffBEGIN_REQ at2565584 ps
+------------ called allocate(), #trans = 28d
+3ffe8c77new , cmd= R, data= 282d602eat time 2567678 ps
+------------ called allocate(), #trans = 28e
+3ffe8c77BEGIN_REQ at2577089 ps
+5e383f1dnew , cmd= W, data= 679dcc24at time 2577089 ps
+5e383f1dBEGIN_REQ at2580668 ps
+------------ called allocate(), #trans = 28f
+3c88687new , cmd= W, data= 3b1ccb3cat time 2584379 ps
+------------ called allocate(), #trans = 290
+3c88687BEGIN_REQ at2590964 ps
+141210d7new , cmd= W, data= 788a6b53at time 2590964 ps
+------------ called allocate(), #trans = 291
+141210d7BEGIN_REQ at2591430 ps
+1927e1new , cmd= R, data= 1588698bat time 2591430 ps
+------------ called allocate(), #trans = 292
+1927e1BEGIN_REQ at2595482 ps
+185bd60fnew , cmd= W, data= 5604cc53at time 2595482 ps
+185bd60fBEGIN_REQ at2597433 ps
+------------ called allocate(), #trans = 293
+7f2c8f93new , cmd= R, data= 216bc78cat time 2597642 ps
+------------ called allocate(), #trans = 294
+7f2c8f93BEGIN_REQ at2601532 ps
+3c5cb001new , cmd= R, data= 464d6a85at time 2601532 ps
+3c5cb001BEGIN_REQ at2601532 ps
+------------ called allocate(), #trans = 295
+63fefba1new , cmd= W, data= 15d7232eat time 2603483 ps
+------------ called allocate(), #trans = 296
+63fefba1BEGIN_REQ at2610297 ps
+20f34075new , cmd= R, data= 70d5ade6at time 2610297 ps
+20f34075BEGIN_REQ at2611037 ps
+------------ called allocate(), #trans = 297
+120e6dccnew , cmd= W, data= 49fc1bd2at time 2611335 ps
+------------ called allocate(), #trans = 298
+120e6dccBEGIN_REQ at2611801 ps
+4a1543b3new , cmd= W, data= 1b737afeat time 2611801 ps
+4a1543b3BEGIN_REQ at2612349 ps
+------------ called allocate(), #trans = 299
+62bc280bnew , cmd= W, data= 685f1996at time 2616190 ps
+------------ called allocate(), #trans = 29a
+62bc280bBEGIN_REQ at2625892 ps
+456a2b2anew , cmd= R, data= 1dd1539cat time 2625892 ps
+456a2b2aBEGIN_REQ at2626088 ps
+------------ called allocate(), #trans = 29b
+4fa4a10cnew , cmd= R, data= 62a8b755at time 2627218 ps
+4fa4a10cBEGIN_REQ at2627228 ps
+------------ called allocate(), #trans = 29c
+6a1d25banew , cmd= R, data= 30f45684at time 2635523 ps
+------------ called allocate(), #trans = 29d
+6a1d25baBEGIN_REQ at2641036 ps
+53262dednew , cmd= R, data= 282d602eat time 2641036 ps
+53262dedBEGIN_REQ at2642074 ps
+------------ called allocate(), #trans = 29e
+68df926new , cmd= W, data= 6e93fa3eat time 2642442 ps
+------------ called allocate(), #trans = 29f
+68df926BEGIN_REQ at2649977 ps
+38a93df2new , cmd= R, data= 3b1ccb3cat time 2649977 ps
+------------ called allocate(), #trans = 2a0
+38a93df2BEGIN_REQ at2650828 ps
+66ebc68new , cmd= W, data= 74ffe9a1at time 2650828 ps
+66ebc68BEGIN_REQ at2650934 ps
+------------ called allocate(), #trans = 2a1
+3d5a3535new , cmd= R, data= 1588698bat time 2651221 ps
+3d5a3535BEGIN_REQ at2651224 ps
+------------ called allocate(), #trans = 2a2
+35fedc54new , cmd= W, data= 49e1fd6fat time 2653967 ps
+35fedc54BEGIN_REQ at2653969 ps
+------------ called allocate(), #trans = 2a3
+33ff2329new , cmd= R, data= 216bc78cat time 2655143 ps
+------------ called allocate(), #trans = 2a4
+33ff2329BEGIN_REQ at2660860 ps
+57b3c203new , cmd= R, data= 464d6a85at time 2660860 ps
+57b3c203BEGIN_REQ at2662110 ps
+------------ called allocate(), #trans = 2a5
+467cfb34new , cmd= W, data= 6adf9aadat time 2662523 ps
+467cfb34BEGIN_REQ at2662951 ps
+------------ called allocate(), #trans = 2a6
+2388d89fnew , cmd= W, data= 4d654d08at time 2670058 ps
+2388d89fBEGIN_REQ at2670651 ps
+------------ called allocate(), #trans = 2a7
+a0aed83new , cmd= R, data= 49fc1bd2at time 2675775 ps
+a0aed83BEGIN_REQ at2677626 ps
+------------ called allocate(), #trans = 2a8
+1b52516new , cmd= R, data= 1b737afeat time 2677726 ps
+1b52516BEGIN_REQ at2680472 ps
+------------ called allocate(), #trans = 2a9
+3482260anew , cmd= R, data= 685f1996at time 2685261 ps
+------------ called allocate(), #trans = 2aa
+3482260aBEGIN_REQ at2692551 ps
+54e02c96new , cmd= R, data= 1dd1539cat time 2692551 ps
+------------ called allocate(), #trans = 2ab
+54e02c96BEGIN_REQ at2694502 ps
+4b75770enew , cmd= W, data= 603ea557at time 2694502 ps
+4b75770eBEGIN_REQ at2695142 ps
+------------ called allocate(), #trans = 2ac
+26bba08cnew , cmd= W, data= 4a495dddat time 2697646 ps
+------------ called allocate(), #trans = 2ad
+26bba08cBEGIN_REQ at2701864 ps
+6dd2367dnew , cmd= W, data= 602a6fa5at time 2701864 ps
+6dd2367dBEGIN_REQ at2702715 ps
+------------ called allocate(), #trans = 2ae
+6a355d28new , cmd= W, data= 4d159234at time 2703815 ps
+6a355d28BEGIN_REQ at2703825 ps
+------------ called allocate(), #trans = 2af
+4b98dbeanew , cmd= W, data= 49d2139eat time 2705868 ps
+------------ called allocate(), #trans = 2b0
+4b98dbeaBEGIN_REQ at2709600 ps
+5a48d2f8new , cmd= R, data= 74ffe9a1at time 2709600 ps
+5a48d2f8BEGIN_REQ at2713652 ps
+------------ called allocate(), #trans = 2b1
+12622f5anew , cmd= W, data= 6a342c8bat time 2714720 ps
+------------ called allocate(), #trans = 2b2
+12622f5aBEGIN_REQ at2724422 ps
+5477a36bnew , cmd= W, data= 5205bdf3at time 2724422 ps
+------------ called allocate(), #trans = 2b3
+5477a36bBEGIN_REQ at2726691 ps
+2443dee2new , cmd= R, data= 216bc78cat time 2726691 ps
+2443dee2BEGIN_REQ at2726740 ps
+------------ called allocate(), #trans = 2b4
+66b083b3new , cmd= R, data= 464d6a85at time 2729976 ps
+66b083b3BEGIN_REQ at2730195 ps
+------------ called allocate(), #trans = 2b5
+4bbb12ffnew , cmd= R, data= 6adf9aadat time 2736561 ps
+4bbb12ffBEGIN_REQ at2737811 ps
+------------ called allocate(), #trans = 2b6
+67096dbenew , cmd= W, data= 18ca7850at time 2738135 ps
+------------ called allocate(), #trans = 2b7
+67096dbeBEGIN_REQ at2738683 ps
+73134b48new , cmd= R, data= 49fc1bd2at time 2738683 ps
+------------ called allocate(), #trans = 2b8
+73134b48BEGIN_REQ at2740346 ps
+7e6da8new , cmd= W, data= 7c062d50at time 2740346 ps
+7e6da8BEGIN_REQ at2740349 ps
+------------ called allocate(), #trans = 2b9
+507dd0bbnew , cmd= R, data= 685f1996at time 2740404 ps
+------------ called allocate(), #trans = 2ba
+507dd0bbBEGIN_REQ at2740910 ps
+6a1c4836new , cmd= W, data= 4ac4d63aat time 2740910 ps
+------------ called allocate(), #trans = 2bb
+6a1c4836BEGIN_REQ at2740915 ps
+317559ednew , cmd= R, data= 603ea557at time 2740915 ps
+------------ called allocate(), #trans = 2bc
+317559edBEGIN_REQ at2747056 ps
+d0feb3dnew , cmd= W, data= 4a7da6e3at time 2747056 ps
+d0feb3dBEGIN_REQ at2747177 ps
+------------ called allocate(), #trans = 2bd
+6887d6e4new , cmd= W, data= ecb0421at time 2756758 ps
+6887d6e4BEGIN_REQ at2756816 ps
+------------ called allocate(), #trans = 2be
+7ce7426fnew , cmd= W, data= 79b8144cat time 2756954 ps
+------------ called allocate(), #trans = 2bf
+7ce7426fBEGIN_REQ at2756987 ps
+75be419cnew , cmd= R, data= 49d2139eat time 2756987 ps
+75be419cBEGIN_REQ at2757257 ps
+------------ called allocate(), #trans = 2c0
+3e4d44e8new , cmd= W, data= a7ad484at time 2761376 ps
+3e4d44e8BEGIN_REQ at2762349 ps
+------------ called allocate(), #trans = 2c1
+553faabfnew , cmd= R, data= 6a342c8bat time 2763039 ps
+------------ called allocate(), #trans = 2c2
+553faabfBEGIN_REQ at2763056 ps
+60e05738new , cmd= W, data= 9103f75at time 2763056 ps
+------------ called allocate(), #trans = 2c3
+60e05738BEGIN_REQ at2772182 ps
+538de658new , cmd= R, data= 216bc78cat time 2772182 ps
+538de658BEGIN_REQ at2772425 ps
+------------ called allocate(), #trans = 2c4
+3ecb5aa3new , cmd= R, data= 464d6a85at time 2774451 ps
+3ecb5aa3BEGIN_REQ at2774748 ps
+------------ called allocate(), #trans = 2c5
+5be5cef1new , cmd= R, data= 6adf9aadat time 2780168 ps
+------------ called allocate(), #trans = 2c6
+5be5cef1BEGIN_REQ at2787703 ps
+784f4975new , cmd= R, data= 18ca7850at time 2787703 ps
+------------ called allocate(), #trans = 2c7
+784f4975BEGIN_REQ at2791133 ps
+5c63d66cnew , cmd= R, data= 49fc1bd2at time 2791133 ps
+5c63d66cBEGIN_REQ at2791254 ps
+------------ called allocate(), #trans = 2c8
+3366c0e8new , cmd= R, data= 7c062d50at time 2797060 ps
+3366c0e8BEGIN_REQ at2801278 ps
+------------ called allocate(), #trans = 2c9
+168ac66new , cmd= R, data= 685f1996at time 2801990 ps
+168ac66BEGIN_REQ at2804043 ps
+------------ called allocate(), #trans = 2ca
+4be399d1new , cmd= W, data= 11e56d99at time 2809525 ps
+4be399d1BEGIN_REQ at2813577 ps
+------------ called allocate(), #trans = 2cb
+6218f5fanew , cmd= W, data= 2a86c699at time 2814839 ps
+------------ called allocate(), #trans = 2cc
+6218f5faBEGIN_REQ at2818571 ps
+513834c4new , cmd= W, data= 79d721aat time 2818571 ps
+513834c4BEGIN_REQ at2818584 ps
+------------ called allocate(), #trans = 2cd
+7fecbb8fnew , cmd= W, data= 42f8bf57at time 2819482 ps
+------------ called allocate(), #trans = 2ce
+7fecbb8fBEGIN_REQ at2820520 ps
+4df5f321new , cmd= R, data= 79b8144cat time 2820520 ps
+------------ called allocate(), #trans = 2cf
+4df5f321BEGIN_REQ at2825640 ps
+3490d64new , cmd= W, data= 544ef3ecat time 2825640 ps
+------------ called allocate(), #trans = 2d0
+3490d64BEGIN_REQ at2835051 ps
+8218b08new , cmd= W, data= 15e14689at time 2835051 ps
+8218b08BEGIN_REQ at2835100 ps
+------------ called allocate(), #trans = 2d1
+3552c6b3new , cmd= R, data= 6a342c8bat time 2837434 ps
+3552c6b3BEGIN_REQ at2837474 ps
+------------ called allocate(), #trans = 2d2
+40269727new , cmd= R, data= 9103f75at time 2839008 ps
+------------ called allocate(), #trans = 2d3
+40269727BEGIN_REQ at2842740 ps
+401d6aednew , cmd= R, data= 216bc78cat time 2842740 ps
+401d6aedBEGIN_REQ at2842861 ps
+------------ called allocate(), #trans = 2d4
+c6edb7enew , cmd= R, data= 464d6a85at time 2843288 ps
+c6edb7eBEGIN_REQ at2843289 ps
+------------ called allocate(), #trans = 2d5
+6ef75032new , cmd= R, data= 6adf9aadat time 2850337 ps
+------------ called allocate(), #trans = 2d6
+6ef75032BEGIN_REQ at2852837 ps
+48b1a1e3new , cmd= W, data= 412d9f39at time 2852837 ps
+48b1a1e3BEGIN_REQ at2852877 ps
+------------ called allocate(), #trans = 2d7
+b2b4bf1new , cmd= R, data= 49fc1bd2at time 2855583 ps
+b2b4bf1BEGIN_REQ at2855585 ps
+------------ called allocate(), #trans = 2d8
+4f068571new , cmd= R, data= 7c062d50at time 2857534 ps
+4f068571BEGIN_REQ at2857690 ps
+------------ called allocate(), #trans = 2d9
+1aff7014new , cmd= W, data= 24cced27at time 2865069 ps
+1aff7014BEGIN_REQ at2865288 ps
+------------ called allocate(), #trans = 2da
+362bb912new , cmd= W, data= 78a02b09at time 2866395 ps
+362bb912BEGIN_REQ at2866416 ps
+------------ called allocate(), #trans = 2db
+50f0687new , cmd= R, data= 2a86c699at time 2868448 ps
+50f0687BEGIN_REQ at2868488 ps
+------------ called allocate(), #trans = 2dc
+32ed8ae2new , cmd= R, data= 79d721aat time 2868775 ps
+------------ called allocate(), #trans = 2dd
+32ed8ae2BEGIN_REQ at2877348 ps
+3e08ba59new , cmd= R, data= 42f8bf57at time 2877348 ps
+------------ called allocate(), #trans = 2de
+3e08ba59BEGIN_REQ at2881238 ps
+57b83753new , cmd= R, data= 79b8144cat time 2881238 ps
+------------ called allocate(), #trans = 2df
+57b83753BEGIN_REQ at2885803 ps
+5a565564new , cmd= R, data= 544ef3ecat time 2885803 ps
+5a565564BEGIN_REQ at2887654 ps
+------------ called allocate(), #trans = 2e0
+33d84c72new , cmd= W, data= 17ef0bd8at time 2889693 ps
+------------ called allocate(), #trans = 2e1
+33d84c72BEGIN_REQ at2897736 ps
+40d16f3new , cmd= W, data= 21123692at time 2897736 ps
+40d16f3BEGIN_REQ at2897737 ps
+------------ called allocate(), #trans = 2e2
+55b56675new , cmd= R, data= 9103f75at time 2898912 ps
+55b56675BEGIN_REQ at2900400 ps
+------------ called allocate(), #trans = 2e3
+529f311new , cmd= W, data= 790ea987at time 2902802 ps
+529f311BEGIN_REQ at2907191 ps
+------------ called allocate(), #trans = 2e4
+371763e1new , cmd= W, data= 59f04330at time 2910337 ps
+------------ called allocate(), #trans = 2e5
+371763e1BEGIN_REQ at2910607 ps
+133a061bnew , cmd= R, data= 6adf9aadat time 2910607 ps
+------------ called allocate(), #trans = 2e6
+133a061bBEGIN_REQ at2912767 ps
+617e1b7enew , cmd= W, data= 1e460a11at time 2912767 ps
+------------ called allocate(), #trans = 2e7
+617e1b7eBEGIN_REQ at2913407 ps
+363515e9new , cmd= W, data= 120df768at time 2913407 ps
+------------ called allocate(), #trans = 2e8
+363515e9BEGIN_REQ at2920456 ps
+33202dfbnew , cmd= R, data= 7c062d50at time 2920456 ps
+33202dfbBEGIN_REQ at2923886 ps
+------------ called allocate(), #trans = 2e9
+38abb75enew , cmd= W, data= c8d2582at time 2929303 ps
+------------ called allocate(), #trans = 2ea
+38abb75eBEGIN_REQ at2933521 ps
+59bcf09new , cmd= R, data= 78a02b09at time 2933521 ps
+59bcf09BEGIN_REQ at2933522 ps
+------------ called allocate(), #trans = 2eb
+61c49337new , cmd= W, data= 4ed3e6f5at time 2934069 ps
+61c49337BEGIN_REQ at2937354 ps
+------------ called allocate(), #trans = 2ec
+61200c01new , cmd= W, data= 162a9228at time 2938458 ps
+61200c01BEGIN_REQ at2940121 ps
+------------ called allocate(), #trans = 2ed
+34709c39new , cmd= R, data= 42f8bf57at time 2948160 ps
+------------ called allocate(), #trans = 2ee
+34709c39BEGIN_REQ at2951034 ps
+45f030f9new , cmd= R, data= 79b8144cat time 2951034 ps
+------------ called allocate(), #trans = 2ef
+45f030f9BEGIN_REQ at2955964 ps
+11886451new , cmd= W, data= 7868848at time 2955964 ps
+11886451BEGIN_REQ at2956937 ps
+------------ called allocate(), #trans = 2f0
+5843b4f7new , cmd= R, data= 17ef0bd8at time 2959696 ps
+5843b4f7BEGIN_REQ at2960734 ps
+------------ called allocate(), #trans = 2f1
+2c86ed4dnew , cmd= W, data= 2351c37aat time 2961965 ps
+2c86ed4dBEGIN_REQ at2962005 ps
+------------ called allocate(), #trans = 2f2
+38b1f408new , cmd= W, data= 4f5ea0a0at time 2971376 ps
+38b1f408BEGIN_REQ at2971416 ps
+------------ called allocate(), #trans = 2f3
+21fd2d5dnew , cmd= R, data= 790ea987at time 2974250 ps
+21fd2d5dBEGIN_REQ at2974342 ps
+------------ called allocate(), #trans = 2f4
+2be75911new , cmd= W, data= 4b78f5e2at time 2975355 ps
+------------ called allocate(), #trans = 2f5
+2be75911BEGIN_REQ at2984202 ps
+29e12c39new , cmd= W, data= 3c6dc045at time 2984202 ps
+29e12c39BEGIN_REQ at2984377 ps
+------------ called allocate(), #trans = 2f6
+43f4488enew , cmd= R, data= 1e460a11at time 2985690 ps
+43f4488eBEGIN_REQ at2985846 ps
+------------ called allocate(), #trans = 2f7
+7cb2a790new , cmd= R, data= 120df768at time 2985933 ps
+------------ called allocate(), #trans = 2f8
+7cb2a790BEGIN_REQ at2986728 ps
+59f02208new , cmd= W, data= 1273b516at time 2986728 ps
+------------ called allocate(), #trans = 2f9
+59f02208BEGIN_REQ at2986903 ps
+4a81bc43new , cmd= R, data= c8d2582at time 2986903 ps
+4a81bc43BEGIN_REQ at2990333 ps
+------------ called allocate(), #trans = 2fa
+8d8b858new , cmd= R, data= 78a02b09at time 2993952 ps
+8d8b858BEGIN_REQ at2996335 ps
+------------ called allocate(), #trans = 2fb
+64c7cbc0new , cmd= R, data= 4ed3e6f5at time 3002799 ps
+------------ called allocate(), #trans = 2fc
+64c7cbc0BEGIN_REQ at3005299 ps
+6cedcf53new , cmd= R, data= 162a9228at time 3005299 ps
+6cedcf53BEGIN_REQ at3006337 ps
+------------ called allocate(), #trans = 2fd
+38bb21f2new , cmd= R, data= 42f8bf57at time 3013085 ps
+38bb21f2BEGIN_REQ at3013191 ps
+------------ called allocate(), #trans = 2fe
+79e53679new , cmd= R, data= 79b8144cat time 3013880 ps
+------------ called allocate(), #trans = 2ff
+79e53679BEGIN_REQ at3019597 ps
+da1a94fnew , cmd= W, data= 51fd456eat time 3019597 ps
+da1a94fBEGIN_REQ at3019602 ps
+------------ called allocate(), #trans = 300
+697a2fc8new , cmd= R, data= 17ef0bd8at time 3026182 ps
+------------ called allocate(), #trans = 301
+697a2fc8BEGIN_REQ at3028565 ps
+56948168new , cmd= W, data= 592e731bat time 3028565 ps
+56948168BEGIN_REQ at3028565 ps
+------------ called allocate(), #trans = 302
+6125e267new , cmd= R, data= 4f5ea0a0at time 3031439 ps
+6125e267BEGIN_REQ at3032689 ps
+------------ called allocate(), #trans = 303
+6f9196canew , cmd= W, data= 31e7d8feat time 3033390 ps
+------------ called allocate(), #trans = 304
+6f9196caBEGIN_REQ at3042801 ps
+6aa2faf1new , cmd= R, data= 4b78f5e2at time 3042801 ps
+6aa2faf1BEGIN_REQ at3042801 ps
+------------ called allocate(), #trans = 305
+6e5687a0new , cmd= R, data= 3c6dc045at time 3042818 ps
+6e5687a0BEGIN_REQ at3043856 ps
+------------ called allocate(), #trans = 306
+428fbcdfnew , cmd= W, data= 3860f074at time 3047563 ps
+------------ called allocate(), #trans = 307
+428fbcdfBEGIN_REQ at3050063 ps
+21db203cnew , cmd= W, data= 1110d677at time 3050063 ps
+------------ called allocate(), #trans = 308
+21db203cBEGIN_REQ at3050096 ps
+624feeenew , cmd= R, data= 1273b516at time 3050096 ps
+624feeeBEGIN_REQ at3050113 ps
+------------ called allocate(), #trans = 309
+2c853082new , cmd= R, data= c8d2582at time 3050176 ps
+------------ called allocate(), #trans = 30a
+2c853082BEGIN_REQ at3053606 ps
+569f94fdnew , cmd= W, data= 13035117at time 3053606 ps
+569f94fdBEGIN_REQ at3054199 ps
+------------ called allocate(), #trans = 30b
+7da64c08new , cmd= W, data= 60b9b21dat time 3060655 ps
+7da64c08BEGIN_REQ at3060655 ps
+------------ called allocate(), #trans = 30c
+15a7c5adnew , cmd= W, data= 462670bbat time 3060704 ps
+15a7c5adBEGIN_REQ at3060709 ps
+------------ called allocate(), #trans = 30d
+7e87612fnew , cmd= W, data= 339d4955at time 3062110 ps
+------------ called allocate(), #trans = 30e
+7e87612fBEGIN_REQ at3065842 ps
+44ae1fccnew , cmd= W, data= 3ff892faat time 3065842 ps
+44ae1fccBEGIN_REQ at3066815 ps
+------------ called allocate(), #trans = 30f
+32c9d156new , cmd= W, data= a77db08at time 3067416 ps
+32c9d156BEGIN_REQ at3070701 ps
+------------ called allocate(), #trans = 310
+6b935320new , cmd= R, data= 17ef0bd8at time 3074465 ps
+6b935320BEGIN_REQ at3075641 ps
+------------ called allocate(), #trans = 311
+6d725175new , cmd= R, data= 592e731bat time 3076128 ps
+------------ called allocate(), #trans = 312
+6d725175BEGIN_REQ at3077166 ps
+7554bd67new , cmd= W, data= 3ea15540at time 3077166 ps
+------------ called allocate(), #trans = 313
+7554bd67BEGIN_REQ at3083980 ps
+4c7c5fbnew , cmd= R, data= 31e7d8feat time 3083980 ps
+4c7c5fbBEGIN_REQ at3083993 ps
+------------ called allocate(), #trans = 314
+33088577new , cmd= R, data= 4b78f5e2at time 3084048 ps
+------------ called allocate(), #trans = 315
+33088577BEGIN_REQ at3091583 ps
+1a6c02b4new , cmd= R, data= 3c6dc045at time 3091583 ps
+------------ called allocate(), #trans = 316
+1a6c02b4BEGIN_REQ at3098168 ps
+1437af88new , cmd= W, data= 6ac771aeat time 3098168 ps
+------------ called allocate(), #trans = 317
+1437af88BEGIN_REQ at3099574 ps
+52d1fa43new , cmd= W, data= cb6668cat time 3099574 ps
+52d1fa43BEGIN_REQ at3099574 ps
+------------ called allocate(), #trans = 318
+7a28b801new , cmd= R, data= 1273b516at time 3108421 ps
+------------ called allocate(), #trans = 319
+7a28b801BEGIN_REQ at3117268 ps
+3c095a05new , cmd= W, data= 17a89cccat time 3117268 ps
+3c095a05BEGIN_REQ at3117317 ps
+------------ called allocate(), #trans = 31a
+1c7062c7new , cmd= W, data= 86fbbe2at time 3119219 ps
+------------ called allocate(), #trans = 31b
+1c7062c7BEGIN_REQ at3125579 ps
+5e2d9ecanew , cmd= W, data= 6ce7365dat time 3125579 ps
+------------ called allocate(), #trans = 31c
+5e2d9ecaBEGIN_REQ at3129158 ps
+3c849784new , cmd= R, data= 462670bbat time 3129158 ps
+------------ called allocate(), #trans = 31d
+3c849784BEGIN_REQ at3138005 ps
+48a0349cnew , cmd= W, data= 5b2acc08at time 3138005 ps
+48a0349cBEGIN_REQ at3138433 ps
+------------ called allocate(), #trans = 31e
+67e13295new , cmd= R, data= 3ff892faat time 3138553 ps
+67e13295BEGIN_REQ at3138946 ps
+------------ called allocate(), #trans = 31f
+14405cd2new , cmd= R, data= a77db08at time 3139526 ps
+------------ called allocate(), #trans = 320
+14405cd2BEGIN_REQ at3146816 ps
+3cef9806new , cmd= R, data= 17ef0bd8at time 3146816 ps
+3cef9806BEGIN_REQ at3152957 ps
+------------ called allocate(), #trans = 321
+6f2a31b6new , cmd= W, data= 2bae7636at time 3154602 ps
+------------ called allocate(), #trans = 322
+6f2a31b6BEGIN_REQ at3156008 ps
+9dc1501new , cmd= R, data= 3ea15540at time 3156008 ps
+9dc1501BEGIN_REQ at3157496 ps
+------------ called allocate(), #trans = 323
+4c1125benew , cmd= R, data= 31e7d8feat time 3158629 ps
+4c1125beBEGIN_REQ at3158899 ps
+------------ called allocate(), #trans = 324
+72376c0new , cmd= R, data= 4b78f5e2at time 3164989 ps
+------------ called allocate(), #trans = 325
+72376c0BEGIN_REQ at3171574 ps
+4460dce9new , cmd= W, data= 4a2f755dat time 3171574 ps
+------------ called allocate(), #trans = 326
+4460dce9BEGIN_REQ at3178623 ps
+2c395ff4new , cmd= R, data= 6ac771aeat time 3178623 ps
+------------ called allocate(), #trans = 327
+2c395ff4BEGIN_REQ at3179363 ps
+7676b0c8new , cmd= R, data= cb6668cat time 3179363 ps
+7676b0c8BEGIN_REQ at3179370 ps
+------------ called allocate(), #trans = 328
+223534cdnew , cmd= W, data= 4f4fbb64at time 3179606 ps
+------------ called allocate(), #trans = 329
+223534cdBEGIN_REQ at3185323 ps
+6e1b9a40new , cmd= R, data= 17a89cccat time 3185323 ps
+6e1b9a40BEGIN_REQ at3185330 ps
+------------ called allocate(), #trans = 32a
+5a357684new , cmd= W, data= 42065c38at time 3189375 ps
+------------ called allocate(), #trans = 32b
+5a357684BEGIN_REQ at3192805 ps
+4929d2f8new , cmd= R, data= 6ce7365dat time 3192805 ps
+4929d2f8BEGIN_REQ at3192961 ps
+------------ called allocate(), #trans = 32c
+27d37ae6new , cmd= W, data= 75a78b1eat time 3197194 ps
+------------ called allocate(), #trans = 32d
+27d37ae6BEGIN_REQ at3200773 ps
+21e0eb12new , cmd= W, data= 33da3ce9at time 3200773 ps
+21e0eb12BEGIN_REQ at3201100 ps
+------------ called allocate(), #trans = 32e
+32d0b762new , cmd= W, data= 642a0775at time 3208308 ps
+32d0b762BEGIN_REQ at3208308 ps
+------------ called allocate(), #trans = 32f
+3379c2d9new , cmd= R, data= a77db08at time 3208348 ps
+------------ called allocate(), #trans = 330
+3379c2d9BEGIN_REQ at3217195 ps
+7aa95737new , cmd= W, data= 1b640c94at time 3217195 ps
+7aa95737BEGIN_REQ at3217195 ps
+------------ called allocate(), #trans = 331
+5d6a68ccnew , cmd= R, data= 2bae7636at time 3219046 ps
+------------ called allocate(), #trans = 332
+5d6a68ccBEGIN_REQ at3227619 ps
+72d55baanew , cmd= R, data= 3ea15540at time 3227619 ps
+72d55baaBEGIN_REQ at3227636 ps
+------------ called allocate(), #trans = 333
+61ae7663new , cmd= R, data= 31e7d8feat time 3235405 ps
+------------ called allocate(), #trans = 334
+61ae7663BEGIN_REQ at3238026 ps
+6994c7b4new , cmd= W, data= 75c0dc4at time 3238026 ps
+------------ called allocate(), #trans = 335
+6994c7b4BEGIN_REQ at3240772 ps
+3a2cc526new , cmd= R, data= 4a2f755dat time 3240772 ps
+3a2cc526BEGIN_REQ at3240991 ps
+------------ called allocate(), #trans = 336
+224e93f3new , cmd= W, data= 321c4887at time 3241278 ps
+224e93f3BEGIN_REQ at3241399 ps
+------------ called allocate(), #trans = 337
+2cc59fbenew , cmd= R, data= cb6668cat time 3243331 ps
+2cc59fbeBEGIN_REQ at3243344 ps
+------------ called allocate(), #trans = 338
+7b1dad55new , cmd= W, data= 11072b28at time 3244304 ps
+------------ called allocate(), #trans = 339
+7b1dad55BEGIN_REQ at3244631 ps
+3dc86d2new , cmd= W, data= 3561ed54at time 3244631 ps
+------------ called allocate(), #trans = 33a
+3dc86d2BEGIN_REQ at3248849 ps
+7d15c9f6new , cmd= W, data= 53517ce7at time 3248849 ps
+7d15c9f6BEGIN_REQ at3249644 ps
+------------ called allocate(), #trans = 33b
+5aad8aabnew , cmd= R, data= 6ce7365dat time 3250423 ps
+------------ called allocate(), #trans = 33c
+5aad8aabBEGIN_REQ at3252692 ps
+f5af992new , cmd= W, data= 240d0126at time 3252692 ps
+------------ called allocate(), #trans = 33d
+f5af992BEGIN_REQ at3261818 ps
+562949adnew , cmd= R, data= 33da3ce9at time 3261818 ps
+------------ called allocate(), #trans = 33e
+562949adBEGIN_REQ at3268178 ps
+6e1e2fe5new , cmd= R, data= 642a0775at time 3268178 ps
+6e1e2fe5BEGIN_REQ at3268178 ps
+------------ called allocate(), #trans = 33f
+234aaa01new , cmd= R, data= a77db08at time 3268726 ps
+234aaa01BEGIN_REQ at3268847 ps
+------------ called allocate(), #trans = 340
+197708e0new , cmd= R, data= 1b640c94at time 3268969 ps
+197708e0BEGIN_REQ at3269125 ps
+------------ called allocate(), #trans = 341
+383c39a0new , cmd= W, data= 2aeab23aat time 3269266 ps
+------------ called allocate(), #trans = 342
+383c39a0BEGIN_REQ at3274196 ps
+522efeb9new , cmd= R, data= 3ea15540at time 3274196 ps
+522efeb9BEGIN_REQ at3281486 ps
+------------ called allocate(), #trans = 343
+7b159103new , cmd= W, data= 250ee8f4at time 3281486 ps
+------------ called allocate(), #trans = 344
+7b159103BEGIN_REQ at3281992 ps
+684e50ffnew , cmd= W, data= 32a0cd2bat time 3281992 ps
+------------ called allocate(), #trans = 345
+684e50ffBEGIN_REQ at3290035 ps
+20befd10new , cmd= W, data= 7cce1c29at time 3290035 ps
+20befd10BEGIN_REQ at3290210 ps
+------------ called allocate(), #trans = 346
+12689e37new , cmd= W, data= 7ff4dd7eat time 3297084 ps
+------------ called allocate(), #trans = 347
+12689e37BEGIN_REQ at3304619 ps
+3bf710a3new , cmd= W, data= 14eef96aat time 3304619 ps
+3bf710a3BEGIN_REQ at3304889 ps
+------------ called allocate(), #trans = 348
+207caff1new , cmd= W, data= 60f5be4eat time 3313745 ps
+207caff1BEGIN_REQ at3313785 ps
+------------ called allocate(), #trans = 349
+6522ccc9new , cmd= W, data= 168760b4at time 3315408 ps
+6522ccc9BEGIN_REQ at3316584 ps
+------------ called allocate(), #trans = 34a
+50b94d1bnew , cmd= R, data= 53517ce7at time 3316896 ps
+------------ called allocate(), #trans = 34b
+50b94d1bBEGIN_REQ at3318652 ps
+6200aa71new , cmd= W, data= 24191756at time 3318652 ps
+------------ called allocate(), #trans = 34c
+6200aa71BEGIN_REQ at3327778 ps
+2e13f1a0new , cmd= R, data= 240d0126at time 3327778 ps
+2e13f1a0BEGIN_REQ at3327791 ps
+------------ called allocate(), #trans = 34d
+31540d48new , cmd= R, data= 33da3ce9at time 3327953 ps
+------------ called allocate(), #trans = 34e
+31540d48BEGIN_REQ at3329616 ps
+2d69243dnew , cmd= W, data= 625a2ba9at time 3329616 ps
+------------ called allocate(), #trans = 34f
+2d69243dBEGIN_REQ at3333834 ps
+772bc82enew , cmd= W, data= 6b307e1fat time 3333834 ps
+772bc82eBEGIN_REQ at3333836 ps
+------------ called allocate(), #trans = 350
+6cfe0046new , cmd= R, data= 1b640c94at time 3333892 ps
+------------ called allocate(), #trans = 351
+6cfe0046BEGIN_REQ at3336899 ps
+6c6b77d1new , cmd= W, data= 242a04bfat time 3336899 ps
+6c6b77d1BEGIN_REQ at3339906 ps
+------------ called allocate(), #trans = 352
+32a0ba2anew , cmd= W, data= 19056df2at time 3341464 ps
+------------ called allocate(), #trans = 353
+32a0ba2aBEGIN_REQ at3349769 ps
+4a649dbcnew , cmd= W, data= 144cbee4at time 3349769 ps
+------------ called allocate(), #trans = 354
+4a649dbcBEGIN_REQ at3353501 ps
+4359a283new , cmd= W, data= 528936a9at time 3353501 ps
+4359a283BEGIN_REQ at3353657 ps
+------------ called allocate(), #trans = 355
+eb91a7cnew , cmd= R, data= 7cce1c29at time 3356122 ps
+eb91a7cBEGIN_REQ at3356155 ps
+------------ called allocate(), #trans = 356
+56fe8aa7new , cmd= W, data= 2e272b88at time 3358996 ps
+56fe8aa7BEGIN_REQ at3359003 ps
+------------ called allocate(), #trans = 357
+3aa15030new , cmd= W, data= 4fd22951at time 3367569 ps
+3aa15030BEGIN_REQ at3367765 ps
+------------ called allocate(), #trans = 358
+3f97bb68new , cmd= R, data= 60f5be4eat time 3369729 ps
+3f97bb68BEGIN_REQ at3370026 ps
+------------ called allocate(), #trans = 359
+339bbf5anew , cmd= W, data= 1568ffe4at time 3377019 ps
+339bbf5aBEGIN_REQ at3377992 ps
+------------ called allocate(), #trans = 35a
+29b5bec8new , cmd= R, data= 53517ce7at time 3382736 ps
+29b5bec8BEGIN_REQ at3383531 ps
+------------ called allocate(), #trans = 35b
+62bcd109new , cmd= R, data= 24191756at time 3390271 ps
+62bcd109BEGIN_REQ at3390311 ps
+------------ called allocate(), #trans = 35c
+48904949new , cmd= R, data= 240d0126at time 3393145 ps
+------------ called allocate(), #trans = 35d
+48904949BEGIN_REQ at3398459 ps
+37317807new , cmd= R, data= 33da3ce9at time 3398459 ps
+------------ called allocate(), #trans = 35e
+37317807BEGIN_REQ at3408161 ps
+1bbfbab1new , cmd= W, data= 4d18a27aat time 3408161 ps
+1bbfbab1BEGIN_REQ at3408161 ps
+------------ called allocate(), #trans = 35f
+432d46benew , cmd= W, data= 31694e9bat time 3408458 ps
+432d46beBEGIN_REQ at3408817 ps
+------------ called allocate(), #trans = 360
+65050df6new , cmd= W, data= 14090425at time 3411204 ps
+------------ called allocate(), #trans = 361
+65050df6BEGIN_REQ at3414348 ps
+3dbec2ednew , cmd= W, data= 7bf96d35at time 3414348 ps
+3dbec2edBEGIN_REQ at3416508 ps
+------------ called allocate(), #trans = 362
+35d09c01new , cmd= W, data= 6d9609d2at time 3422134 ps
+------------ called allocate(), #trans = 363
+35d09c01BEGIN_REQ at3425564 ps
+5e3a8c3bnew , cmd= W, data= 36976a79at time 3425564 ps
+------------ called allocate(), #trans = 364
+5e3a8c3bBEGIN_REQ at3434690 ps
+31c56d6enew , cmd= W, data= 729d9e40at time 3434690 ps
+------------ called allocate(), #trans = 365
+31c56d6eBEGIN_REQ at3439810 ps
+9709b73new , cmd= R, data= 7cce1c29at time 3439810 ps
+9709b73BEGIN_REQ at3440029 ps
+------------ called allocate(), #trans = 366
+2dedfbd4new , cmd= W, data= 1fdef805at time 3441863 ps
+------------ called allocate(), #trans = 367
+2dedfbd4BEGIN_REQ at3447580 ps
+2e46311new , cmd= W, data= 19769edfat time 3447580 ps
+------------ called allocate(), #trans = 368
+2e46311BEGIN_REQ at3455366 ps
+4444c318new , cmd= W, data= 46e10977at time 3455366 ps
+4444c318BEGIN_REQ at3455373 ps
+------------ called allocate(), #trans = 369
+4541eec2new , cmd= R, data= 1568ffe4at time 3456404 ps
+------------ called allocate(), #trans = 36a
+4541eec2BEGIN_REQ at3456997 ps
+19752513new , cmd= R, data= 53517ce7at time 3456997 ps
+19752513BEGIN_REQ at3457637 ps
+------------ called allocate(), #trans = 36b
+33d59603new , cmd= W, data= 4a18a269at time 3465040 ps
+33d59603BEGIN_REQ at3465729 ps
+------------ called allocate(), #trans = 36c
+c23f910new , cmd= W, data= 4601a57at time 3466446 ps
+c23f910BEGIN_REQ at3466773 ps
+------------ called allocate(), #trans = 36d
+243f125cnew , cmd= W, data= 3e305171at time 3469453 ps
+------------ called allocate(), #trans = 36e
+243f125cBEGIN_REQ at3470426 ps
+57a6f051new , cmd= R, data= 4d18a27aat time 3470426 ps
+57a6f051BEGIN_REQ at3470453 ps
+------------ called allocate(), #trans = 36f
+25e4660fnew , cmd= W, data= 7f637b92at time 3470518 ps
+25e4660fBEGIN_REQ at3474736 ps
+------------ called allocate(), #trans = 370
+6241362cnew , cmd= R, data= 14090425at time 3474736 ps
+6241362cBEGIN_REQ at3475033 ps
+------------ called allocate(), #trans = 371
+1f0980a6new , cmd= W, data= 46f0edc1at time 3479856 ps
+------------ called allocate(), #trans = 372
+1f0980a6BEGIN_REQ at3480596 ps
+1109902bnew , cmd= W, data= 7bed7ba9at time 3480596 ps
+1109902bBEGIN_REQ at3480629 ps
+------------ called allocate(), #trans = 373
+4d9600new , cmd= W, data= 21dbf3ffat time 3482352 ps
+------------ called allocate(), #trans = 374
+4d9600BEGIN_REQ at3482401 ps
+600c4571new , cmd= W, data= 61517e86at time 3482401 ps
+------------ called allocate(), #trans = 375
+600c4571BEGIN_REQ at3488761 ps
+41f66c50new , cmd= W, data= 785acf81at time 3488761 ps
+41f66c50BEGIN_REQ at3489120 ps
+------------ called allocate(), #trans = 376
+2af359ccnew , cmd= W, data= 35439ae9at time 3495810 ps
+2af359ccBEGIN_REQ at3499862 ps
+------------ called allocate(), #trans = 377
+30f9f629new , cmd= R, data= 19769edfat time 3503596 ps
+30f9f629BEGIN_REQ at3503629 ps
+------------ called allocate(), #trans = 378
+3a632bdenew , cmd= R, data= 46e10977at time 3507814 ps
+3a632bdeBEGIN_REQ at3508084 ps
+------------ called allocate(), #trans = 379
+1bc48721new , cmd= W, data= 1e608b2eat time 3509665 ps
+1bc48721BEGIN_REQ at3511153 ps
+------------ called allocate(), #trans = 37a
+403c7f2dnew , cmd= R, data= 53517ce7at time 3517451 ps
+------------ called allocate(), #trans = 37b
+403c7f2dBEGIN_REQ at3519402 ps
+c4ee349new , cmd= R, data= 4a18a269at time 3519402 ps
+c4ee349BEGIN_REQ at3519540 ps
+------------ called allocate(), #trans = 37c
+32666478new , cmd= W, data= 57201c3cat time 3519995 ps
+------------ called allocate(), #trans = 37d
+32666478BEGIN_REQ at3524560 ps
+2137608new , cmd= R, data= 3e305171at time 3524560 ps
+------------ called allocate(), #trans = 37e
+2137608BEGIN_REQ at3525300 ps
+6d451b2anew , cmd= W, data= 32121fcaat time 3525300 ps
+------------ called allocate(), #trans = 37f
+6d451b2aBEGIN_REQ at3526550 ps
+6c754ba9new , cmd= R, data= 7f637b92at time 3526550 ps
+------------ called allocate(), #trans = 380
+6c754ba9BEGIN_REQ at3527655 ps
+16506ddbnew , cmd= W, data= 69d2e384at time 3527655 ps
+16506ddbBEGIN_REQ at3527660 ps
+------------ called allocate(), #trans = 381
+2a0f62b2new , cmd= W, data= 185c23bfat time 3534704 ps
+2a0f62b2BEGIN_REQ at3534744 ps
+------------ called allocate(), #trans = 382
+8cc1be7new , cmd= W, data= 5e15807fat time 3537325 ps
+8cc1be7BEGIN_REQ at3537328 ps
+------------ called allocate(), #trans = 383
+35359cbbnew , cmd= W, data= 4c8c4d85at time 3541714 ps
+35359cbbBEGIN_REQ at3541727 ps
+------------ called allocate(), #trans = 384
+6d30b7new , cmd= W, data= 36817532at time 3545932 ps
+------------ called allocate(), #trans = 385
+6d30b7BEGIN_REQ at3552292 ps
+11365074new , cmd= W, data= 205e88cdat time 3552292 ps
+------------ called allocate(), #trans = 386
+11365074BEGIN_REQ at3558652 ps
+6bd0e123new , cmd= W, data= 33a42763at time 3558652 ps
+------------ called allocate(), #trans = 387
+6bd0e123BEGIN_REQ at3562384 ps
+3ce1d180new , cmd= R, data= 19769edfat time 3562384 ps
+------------ called allocate(), #trans = 388
+3ce1d180BEGIN_REQ at3567504 ps
+4a0b4eaanew , cmd= W, data= 5e0a1127at time 3567504 ps
+------------ called allocate(), #trans = 389
+4a0b4eaaBEGIN_REQ at3567517 ps
+193c9187new , cmd= R, data= 1e608b2eat time 3567517 ps
+------------ called allocate(), #trans = 38a
+193c9187BEGIN_REQ at3573444 ps
+6dac31dnew , cmd= W, data= 398e33f7at time 3573444 ps
+------------ called allocate(), #trans = 38b
+6dac31dBEGIN_REQ at3580258 ps
+700fa929new , cmd= R, data= 4a18a269at time 3580258 ps
+------------ called allocate(), #trans = 38c
+700fa929BEGIN_REQ at3584148 ps
+2e9dc53fnew , cmd= R, data= 57201c3cat time 3584148 ps
+------------ called allocate(), #trans = 38d
+2e9dc53fBEGIN_REQ at3590733 ps
+534aa8b1new , cmd= R, data= 3e305171at time 3590733 ps
+------------ called allocate(), #trans = 38e
+534aa8b1BEGIN_REQ at3599580 ps
+39005danew , cmd= R, data= 32121fcaat time 3599580 ps
+39005daBEGIN_REQ at3599580 ps
+------------ called allocate(), #trans = 38f
+1c29ac18new , cmd= R, data= 7f637b92at time 3599590 ps
+------------ called allocate(), #trans = 390
+1c29ac18BEGIN_REQ at3601643 ps
+5f0c53b9new , cmd= R, data= 69d2e384at time 3601643 ps
+5f0c53b9BEGIN_REQ at3601643 ps
+------------ called allocate(), #trans = 391
+10bb40e4new , cmd= W, data= 20358c6eat time 3606208 ps
+10bb40e4BEGIN_REQ at3607246 ps
+------------ called allocate(), #trans = 392
+277d8042new , cmd= R, data= 5e15807fat time 3611721 ps
+277d8042BEGIN_REQ at3615453 ps
+------------ called allocate(), #trans = 393
+7c636585new , cmd= W, data= 42ab4368at time 3617862 ps
+------------ called allocate(), #trans = 394
+7c636585BEGIN_REQ at3622792 ps
+1911015dnew , cmd= W, data= 6ac90615at time 3622792 ps
+------------ called allocate(), #trans = 395
+1911015dBEGIN_REQ at3624643 ps
+6e590befnew , cmd= R, data= 205e88cdat time 3624643 ps
+6e590befBEGIN_REQ at3627517 ps
+------------ called allocate(), #trans = 396
+63049a6new , cmd= R, data= 33a42763at time 3630156 ps
+63049a6BEGIN_REQ at3630845 ps
+------------ called allocate(), #trans = 397
+5a710ee9new , cmd= W, data= 13d455adat time 3633030 ps
+5a710ee9BEGIN_REQ at3633030 ps
+------------ called allocate(), #trans = 398
+17967e64new , cmd= W, data= 34a7a259at time 3634881 ps
+17967e64BEGIN_REQ at3634884 ps
+------------ called allocate(), #trans = 399
+69efc91dnew , cmd= W, data= 4f8c6315at time 3640808 ps
+------------ called allocate(), #trans = 39a
+69efc91dBEGIN_REQ at3642861 ps
+1237a67dnew , cmd= R, data= 398e33f7at time 3642861 ps
+------------ called allocate(), #trans = 39b
+1237a67dBEGIN_REQ at3645607 ps
+158317bnew , cmd= W, data= 4e638e90at time 3645607 ps
+158317bBEGIN_REQ at3647990 ps
+------------ called allocate(), #trans = 39c
+386a2c1enew , cmd= R, data= 57201c3cat time 3650352 ps
+386a2c1eBEGIN_REQ at3652512 ps
+------------ called allocate(), #trans = 39d
+658b079cnew , cmd= R, data= 3e305171at time 3656493 ps
+------------ called allocate(), #trans = 39e
+658b079cBEGIN_REQ at3657819 ps
+4c1fbe27new , cmd= W, data= 33c7eec0at time 3657819 ps
+------------ called allocate(), #trans = 39f
+4c1fbe27BEGIN_REQ at3661104 ps
+47c9536anew , cmd= R, data= 7f637b92at time 3661104 ps
+47c9536aBEGIN_REQ at3661104 ps
+------------ called allocate(), #trans = 3a0
+7d48a6cfnew , cmd= W, data= 52d49b6bat time 3663487 ps
+7d48a6cfBEGIN_REQ at3663489 ps
+------------ called allocate(), #trans = 3a1
+650c41e8new , cmd= W, data= 5f1efdbdat time 3664127 ps
+------------ called allocate(), #trans = 3a2
+650c41e8BEGIN_REQ at3664248 ps
+36831474new , cmd= R, data= 5e15807fat time 3664248 ps
+36831474BEGIN_REQ at3664275 ps
+------------ called allocate(), #trans = 3a3
+1722a472new , cmd= R, data= 42ab4368at time 3672821 ps
+1722a472BEGIN_REQ at3672824 ps
+------------ called allocate(), #trans = 3a4
+60442b46new , cmd= W, data= 14bb96e3at time 3677039 ps
+60442b46BEGIN_REQ at3679199 ps
+------------ called allocate(), #trans = 3a5
+678e693cnew , cmd= R, data= 205e88cdat time 3681604 ps
+678e693cBEGIN_REQ at3682577 ps
+------------ called allocate(), #trans = 3a6
+1bd183f6new , cmd= R, data= 33a42763at time 3690730 ps
+------------ called allocate(), #trans = 3a7
+1bd183f6BEGIN_REQ at3692304 ps
+118ebe7new , cmd= W, data= 71ee57b7at time 3692304 ps
+118ebe7BEGIN_REQ at3697049 ps
+------------ called allocate(), #trans = 3a8
+56fa99a0new , cmd= W, data= 2481dd5fat time 3697618 ps
+56fa99a0BEGIN_REQ at3697814 ps
+------------ called allocate(), #trans = 3a9
+5b04f1d3new , cmd= W, data= 52382c66at time 3702548 ps
+------------ called allocate(), #trans = 3aa
+5b04f1d3BEGIN_REQ at3704122 ps
+4cf15010new , cmd= R, data= 398e33f7at time 3704122 ps
+------------ called allocate(), #trans = 3ab
+4cf15010BEGIN_REQ at3704365 ps
+184882dfnew , cmd= R, data= 4e638e90at time 3704365 ps
+------------ called allocate(), #trans = 3ac
+184882dfBEGIN_REQ at3706865 ps
+2f31ba80new , cmd= W, data= 1a861652at time 3706865 ps
+2f31ba80BEGIN_REQ at3706875 ps
+------------ called allocate(), #trans = 3ad
+1e565b6anew , cmd= R, data= 3e305171at time 3706892 ps
+1e565b6aBEGIN_REQ at3706919 ps
+------------ called allocate(), #trans = 3ae
+65504cc9new , cmd= R, data= 33c7eec0at time 3708142 ps
+65504cc9BEGIN_REQ at3713262 ps
+------------ called allocate(), #trans = 3af
+25521f4anew , cmd= W, data= 4f3509caat time 3714727 ps
+25521f4aBEGIN_REQ at3715086 ps
+------------ called allocate(), #trans = 3b0
+2a39fb9dnew , cmd= W, data= 2a827cbcat time 3715275 ps
+2a39fb9dBEGIN_REQ at3716126 ps
+------------ called allocate(), #trans = 3b1
+7773cccdnew , cmd= R, data= 5f1efdbdat time 3724977 ps
+7773cccdBEGIN_REQ at3725196 ps
+------------ called allocate(), #trans = 3b2
+6c69bc65new , cmd= W, data= 721f0547at time 3725196 ps
+6c69bc65BEGIN_REQ at3726169 ps
+------------ called allocate(), #trans = 3b3
+139cf2f6new , cmd= R, data= 42ab4368at time 3726372 ps
+------------ called allocate(), #trans = 3b4
+139cf2f6BEGIN_REQ at3728425 ps
+4f54dd0fnew , cmd= W, data= 2d55928fat time 3728425 ps
+4f54dd0fBEGIN_REQ at3728668 ps
+------------ called allocate(), #trans = 3b5
+7bad1839new , cmd= W, data= 7d2f4ca8at time 3728668 ps
+7bad1839BEGIN_REQ at3728668 ps
+------------ called allocate(), #trans = 3b6
+4c645672new , cmd= R, data= 33a42763at time 3728748 ps
+4c645672BEGIN_REQ at3730699 ps
+------------ called allocate(), #trans = 3b7
+4a7895new , cmd= W, data= 781d769bat time 3734465 ps
+------------ called allocate(), #trans = 3b8
+4a7895BEGIN_REQ at3734792 ps
+4c3eb021new , cmd= W, data= 28770a40at time 3734792 ps
+------------ called allocate(), #trans = 3b9
+4c3eb021BEGIN_REQ at3734988 ps
+1a960f87new , cmd= W, data= 16cafeffat time 3734988 ps
+1a960f87BEGIN_REQ at3734995 ps
+------------ called allocate(), #trans = 3ba
+7185782fnew , cmd= R, data= 398e33f7at time 3735144 ps
+7185782fBEGIN_REQ at3735144 ps
+------------ called allocate(), #trans = 3bb
+2c74f9a9new , cmd= W, data= 312d6bdfat time 3735692 ps
+2c74f9a9BEGIN_REQ at3736432 ps
+------------ called allocate(), #trans = 3bc
+2e5cb887new , cmd= W, data= 3aadb036at time 3736665 ps
+2e5cb887BEGIN_REQ at3737024 ps
+------------ called allocate(), #trans = 3bd
+1c8528c9new , cmd= W, data= 770c9c2bat time 3741979 ps
+------------ called allocate(), #trans = 3be
+1c8528c9BEGIN_REQ at3745711 ps
+272b534fnew , cmd= R, data= 33c7eec0at time 3745711 ps
+------------ called allocate(), #trans = 3bf
+272b534fBEGIN_REQ at3746259 ps
+5523ea74new , cmd= W, data= 773ffdaeat time 3746259 ps
+5523ea74BEGIN_REQ at3746556 ps
+------------ called allocate(), #trans = 3c0
+e0afcaenew , cmd= R, data= 2a827cbcat time 3753549 ps
+e0afcaeBEGIN_REQ at3753582 ps
+------------ called allocate(), #trans = 3c1
+1d0c6392new , cmd= R, data= 5f1efdbdat time 3753908 ps
+1d0c6392BEGIN_REQ at3754029 ps
+------------ called allocate(), #trans = 3c2
+4b50b71dnew , cmd= W, data= 71a36f1dat time 3758838 ps
+4b50b71dBEGIN_REQ at3758838 ps
+------------ called allocate(), #trans = 3c3
+3ac4b882new , cmd= R, data= 42ab4368at time 3764351 ps
+------------ called allocate(), #trans = 3c4
+3ac4b882BEGIN_REQ at3767495 ps
+53a41817new , cmd= W, data= 28937843at time 3767495 ps
+53a41817BEGIN_REQ at3771074 ps
+------------ called allocate(), #trans = 3c5
+4fbecb92new , cmd= W, data= 4924b453at time 3774544 ps
+------------ called allocate(), #trans = 3c6
+4fbecb92BEGIN_REQ at3780261 ps
+3788a8a0new , cmd= W, data= 6e0dfad2at time 3780261 ps
+------------ called allocate(), #trans = 3c7
+3788a8a0BEGIN_REQ at3780654 ps
+bfaf74bnew , cmd= R, data= 781d769bat time 3780654 ps
+bfaf74bBEGIN_REQ at3780654 ps
+------------ called allocate(), #trans = 3c8
+3fc9f69anew , cmd= R, data= 28770a40at time 3783939 ps
+3fc9f69aBEGIN_REQ at3785115 ps
+------------ called allocate(), #trans = 3c9
+7c512b0fnew , cmd= R, data= 16cafeffat time 3789656 ps
+7c512b0fBEGIN_REQ at3790249 ps
+------------ called allocate(), #trans = 3ca
+1ef0dfb9new , cmd= R, data= 398e33f7at time 3791507 ps
+1ef0dfb9BEGIN_REQ at3791663 ps
+------------ called allocate(), #trans = 3cb
+124ef435new , cmd= R, data= 312d6bdfat time 3792418 ps
+------------ called allocate(), #trans = 3cc
+124ef435BEGIN_REQ at3795039 ps
+2fff854cnew , cmd= R, data= 3aadb036at time 3795039 ps
+2fff854cBEGIN_REQ at3796445 ps
+------------ called allocate(), #trans = 3cd
+528ece9dnew , cmd= R, data= 770c9c2bat time 3800756 ps
+------------ called allocate(), #trans = 3ce
+528ece9dBEGIN_REQ at3805876 ps
+24643c72new , cmd= R, data= 33c7eec0at time 3805876 ps
+------------ called allocate(), #trans = 3cf
+24643c72BEGIN_REQ at3812236 ps
+586bf170new , cmd= W, data= 59668e9bat time 3812236 ps
+------------ called allocate(), #trans = 3d0
+586bf170BEGIN_REQ at3820541 ps
+4bef46b4new , cmd= R, data= 2a827cbcat time 3820541 ps
+4bef46b4BEGIN_REQ at3821514 ps
+------------ called allocate(), #trans = 3d1
+2adc8291new , cmd= W, data= 4f0c4da3at time 3825286 ps
+------------ called allocate(), #trans = 3d2
+2adc8291BEGIN_REQ at3830216 ps
+1f840974new , cmd= W, data= 23d4390fat time 3830216 ps
+------------ called allocate(), #trans = 3d3
+1f840974BEGIN_REQ at3836143 ps
+53d3be5bnew , cmd= W, data= 42aabe12at time 3836143 ps
+------------ called allocate(), #trans = 3d4
+53d3be5bBEGIN_REQ at3843678 ps
+7900ffb2new , cmd= W, data= 77ba70fat time 3843678 ps
+------------ called allocate(), #trans = 3d5
+7900ffb2BEGIN_REQ at3852804 ps
+6a1f0ba6new , cmd= R, data= 4924b453at time 3852804 ps
+------------ called allocate(), #trans = 3d6
+6a1f0ba6BEGIN_REQ at3854755 ps
+272afe7dnew , cmd= R, data= 6e0dfad2at time 3854755 ps
+272afe7dBEGIN_REQ at3856915 ps
+------------ called allocate(), #trans = 3d7
+3751a07enew , cmd= R, data= 781d769bat time 3861804 ps
+------------ called allocate(), #trans = 3d8
+3751a07eBEGIN_REQ at3861884 ps
+2892f8e5new , cmd= W, data= 4bb581bfat time 3861884 ps
+------------ called allocate(), #trans = 3d9
+2892f8e5BEGIN_REQ at3862857 ps
+478bd4a4new , cmd= R, data= 16cafeffat time 3862857 ps
+------------ called allocate(), #trans = 3da
+478bd4a4BEGIN_REQ at3871704 ps
+2778d0a1new , cmd= W, data= 14df1001at time 3871704 ps
+2778d0a1BEGIN_REQ at3872555 ps
+------------ called allocate(), #trans = 3db
+de00fb3new , cmd= W, data= 471237c7at time 3873460 ps
+------------ called allocate(), #trans = 3dc
+de00fb3BEGIN_REQ at3880274 ps
+3131436dnew , cmd= W, data= 113ff6cbat time 3880274 ps
+------------ called allocate(), #trans = 3dd
+3131436dBEGIN_REQ at3889685 ps
+25410187new , cmd= R, data= 770c9c2bat time 3889685 ps
+------------ called allocate(), #trans = 3de
+25410187BEGIN_REQ at3899096 ps
+5a1b5e28new , cmd= R, data= 33c7eec0at time 3899096 ps
+5a1b5e28BEGIN_REQ at3901047 ps
+------------ called allocate(), #trans = 3df
+28c6b345new , cmd= W, data= 327f3044at time 3904609 ps
+------------ called allocate(), #trans = 3e0
+28c6b345BEGIN_REQ at3908499 ps
+624428anew , cmd= R, data= 2a827cbcat time 3908499 ps
+624428aBEGIN_REQ at3908718 ps
+------------ called allocate(), #trans = 3e1
+70908a21new , cmd= W, data= 220ddbc8at time 3913619 ps
+70908a21BEGIN_REQ at3914530 ps
+------------ called allocate(), #trans = 3e2
+14237ea0new , cmd= W, data= 723ad8f5at time 3916365 ps
+14237ea0BEGIN_REQ at3916366 ps
+------------ called allocate(), #trans = 3e3
+6b4494b0new , cmd= R, data= 42aabe12at time 3919795 ps
+------------ called allocate(), #trans = 3e4
+6b4494b0BEGIN_REQ at3923080 ps
+60194b0bnew , cmd= W, data= 1ec84e53at time 3923080 ps
+60194b0bBEGIN_REQ at3923081 ps
+------------ called allocate(), #trans = 3e5
+554d00d9new , cmd= W, data= 57e47edeat time 3931927 ps
+554d00d9BEGIN_REQ at3931937 ps
+------------ called allocate(), #trans = 3e6
+a63af22new , cmd= R, data= 6e0dfad2at time 3933778 ps
+a63af22BEGIN_REQ at3937996 ps
+------------ called allocate(), #trans = 3e7
+1d8276cenew , cmd= W, data= 3e2504d9at time 3939919 ps
+------------ called allocate(), #trans = 3e8
+1d8276ceBEGIN_REQ at3940957 ps
+6032e0a1new , cmd= W, data= 7c268c66at time 3940957 ps
+6032e0a1BEGIN_REQ at3941463 ps
